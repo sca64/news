@@ -5,9 +5,83 @@
     <link>https://sca64.github.io/news</link>
     <description>Flux RSS de mes articles.</description>
     <language>fr</language>
-    <lastBuildDate>Sun, 22 Nov 2026 17:28:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 20:23:32 GMT</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://sca64.github.io/news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Les petites salles de concert, incubateurs en danger</title>
+      <link>https://sca64.github.io/news/articles/culture-les-petites-salles-de-concert-incubateurs-en-danger.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:culture-les-petites-salles-de-concert-incubateurs-en-danger</guid>
+      <pubDate>Sun, 22 Nov 2026 20:23:00 GMT</pubDate>
+      <description>Modestes par leur taille, immenses par leur rôle : les petites salles de concert font face à une lutte pour leur survie, en France comme au Royaume-Uni .</description>
+      <content:encoded><![CDATA[<p>Modestes par leur taille, immenses par leur rôle : les petites salles de concert font face à une lutte pour leur survie, en France comme au <a href="https://www.lesinrocks.com/musique/comment-sauvegarder-les-petites-salles-de-concert-704106-22-11-2026/">Royaume-Uni</a>.</p>
+<p>Ces lieux, dont l'utilité dépasse largement leur capacité d'accueil, sont avant tout des incubateurs pour les groupes émergents. C'est là que se forgent les premières scènes, les premiers publics, les premiers tours de rodage qui ne peuvent pas se tenir dans une grande salle. Et c'est précisément ce rôle qui rend leur disparition d'autant plus dommageable qu'elle reste invisible : personne ne remarque l'absence d'une scène qu'on n'a jamais fréquentée.</p>
+<p>L'enquête publiée dans <a href="https://www.lesinrocks.com/musique/comment-sauvegarder-les-petites-salles-de-concert-704106-22-11-2026/">Les Inrocks</a> n'est pas parue dans n'importe quel numéro. Elle figure dans une édition spéciale dont la rédaction en chef est assurée par les membres de Fontaines D.C., un choix éditorial qui dit quelque chose de l'attachement que ces groupes, passés par ces mêmes salles, portent à ces espaces.</p>
+<p>Le constat traverse les deux côtés de la Manche. La difficulté n'est pas propre à un pays, à un modèle de financement ou à un type de programmation. Elle touche une catégorie entière d'établissements culturels qui, faute de remplir trois mille places, n'entrent pas dans les cases qui protègent.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://www.lesinrocks.com/musique/comment-sauvegarder-les-petites-salles-de-concert-704106-22-11-2026/">Les Inrocks — Comment sauvegarder les petites salles de concert ?</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Deux millions de canaris dans la chaîne d'approvisionnement IA</title>
+      <link>https://sca64.github.io/news/articles/dev-ia-deux-millions-de-canaris-dans-la-chaine-d.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:dev-ia-deux-millions-de-canaris-dans-la-chaine-d</guid>
+      <pubDate>Sun, 22 Nov 2026 20:18:00 GMT</pubDate>
+      <description>Un chercheur a semé deux millions de canaris dans la chaîne d'approvisionnement en intelligence artificielle, et le résultat est sans appel : une catastrophe en matière de vie privée est remontée à la surface, rapporte Ars Technica dans sa rubrique sécurité .</description>
+      <content:encoded><![CDATA[<p>Un chercheur a semé deux millions de canaris dans la chaîne d'approvisionnement en intelligence artificielle, et le résultat est sans appel : une catastrophe en matière de vie privée est remontée à la surface, <a href="https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/">rapporte Ars Technica dans sa rubrique sécurité</a>.</p>
+<p>Le titre de l'article décrit une chaîne d'approvisionnement « qui fuit » et qui expose des données secrètes des utilisateurs « à un rythme alarmant ». Le mot <em>canaris</em>, emprunté aux mineurs emportant un oiseau fragile pour trahir un gaz invisible, désigne ici des marqueurs volontairement placés dans la chaîne : leur détection ailleurs que là où ils devraient être signale qu'une donnée a quitté son périmètre.</p>
+<p>Deux millions de ces marqueurs. Deux millions d'alertes potentielles. Et quand le titre parle d'un « rythme alarmant », on mesure que le signal n'a pas été marginal — il a été massif, suffisamment pour qu'un média généraliste titre sur une « catastrophe ».</p>
+<p>Ce que la dépêche ne détaille pas — quels canaris, dans quelles dépendances, fuites vers où — reste entre les lignes du titre. Mais l'ampleur chiffrée, elle, est là : deux millions de petites sentinelles, et un résultat qui a suffi à faire remonter une catastrophe.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/">Lobsters — Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Chez Burger King, un salarié imite un robot pour tromper une IA</title>
+      <link>https://sca64.github.io/news/articles/techno-chez-burger-king-un-salarie-imite-un-robot-pour.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:techno-chez-burger-king-un-salarie-imite-un-robot-pour</guid>
+      <pubDate>Sun, 22 Nov 2026 20:18:00 GMT</pubDate>
+      <description>Aux États-Unis, Burger King a confié à une intelligence artificielle le soin de noter les conversations de ses employés du drive .</description>
+      <content:encoded><![CDATA[<p>Aux États-Unis, Burger King a confié à une intelligence artificielle le soin de <a href="https://www.lesnumeriques.com/intelligence-artificielle/un-employe-de-burger-king-s-est-mis-a-parler-comme-un-robot-aux-clients-pour-eviter-d-etre-sanctionne-par-une-ia-qui-notait-tous-ses-echanges-et-le-penalisait-en-cas-de-mauvaise-note-n268246.html">noter les conversations de ses employés du drive</a>. Le système évaluait la politesse, le ton de la voix et les efforts de vente déployés par chaque salarié au moment de la commande.</p>
+<p>Le résultat est aussi drôle que glaçant. Un employé, las de se voir pénalisé en cas de mauvaise note, a décidé de calquer son comportement sur ce que le logiciel attendait. Il s'est mis à parler aux clients exactement comme un robot, avec la diction monocorde, les formules figées et la ponctuation mécanique qu'on associe à une synthèse vocale.</p>
+<p>Les clients, de l'autre côté du micro, n'y comprenaient plus rien : certains lui demandaient s'il était humain.</p>
+<p>L'épisode met en lumière un angle mort des systèmes de scoring automatisés appliqués au travail. Un outil censé mesurer la qualité relationnelle devient, dès lors qu'il est perçu comme un juge, un moule dans lequel on coule sa voix pour éviter la sanction. L'IA cherche la politesse et le ton adéquat ; l'employé lui en donne une version synthétique, et le système, satisfait, valide. Personne n'a triché, au sens strict : il a simplement parlé la langue du logiciel.</p>
+<p>Il reste une question que la dépêche ne tranche pas, et qu'on aurait tort de trancher à sa place : le système a-t-il été retiré, corrigé, ou simplement commenté sur les réseaux ? Le texte se contente de relater les faits — la mise en place de l'IA, la réaction du salarié, l'étonnement des clients — sans préciser ce que Burger King en a fait ensuite. On ne peut pas en dire plus sans inventer.</p>
+<p>Ce qui est certain, c'est que la scène dit quelque chose du travail à l'heure des notations algorithmiques : à force de parler à la machine plutôt qu'au client, c'est le client qui doute de votre humanité.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://www.lesnumeriques.com/intelligence-artificielle/un-employe-de-burger-king-s-est-mis-a-parler-comme-un-robot-aux-clients-pour-eviter-d-etre-sanctionne-par-une-ia-qui-notait-tous-ses-echanges-et-le-penalisait-en-cas-de-mauvaise-note-n268246.html">Les Numériques — Actualité : Un employé de Burger King s'est mis à parler comme un robot aux clients pour éviter d'être sanctionné par une IA qui notait tous ses échanges et le pénalisait en cas de mauvaise note</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Choose France : plus de 42 milliards d'investissements annoncés</title>
+      <link>https://sca64.github.io/news/articles/national-choose-france-plus-de-42-milliards-d-investissements.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:national-choose-france-plus-de-42-milliards-d-investissements</guid>
+      <pubDate>Sun, 22 Nov 2026 20:17:00 GMT</pubDate>
+      <description>Le sommet Choose France, événement dévolu aux entreprises tricolores qui investissent en France, réunira cette année 273 projets industriels, rapporte Le Monde .</description>
+      <content:encoded><![CDATA[<p>Le sommet Choose France, événement dévolu aux entreprises tricolores qui investissent en France, réunira cette année 273 projets industriels, <a href="https://www.lemonde.fr/economie-francaise/article/2026/11/22/choose-france-273-projets-industriels-seront-presentes-lors-de-ce-sommet-devolu-aux-entreprises-tricolores_6814240_1656968.html">rapporte Le Monde</a>. Cette édition, réservée aux entreprises françaises investissant dans le pays, décompte 14,9 milliards d'euros d'investissements nouveaux, dont 81 projets inédits, notamment dans la santé, la cosmétique ou les biocarburants (<a href="https://www.lemonde.fr/economie-francaise/article/2026/11/22/choose-france-273-projets-industriels-seront-presentes-lors-de-ce-sommet-devolu-aux-entreprises-tricolores_6814240_1656968.html">Le Monde</a>).</p>
+<p><a href="https://www.lefigaro.fr/societes/energie-data-centers-cosmetique-plus-de-42-milliards-d-euros-d-investissements-francais-en-2026-pour-le-choose-france-20261122">Le Figaro</a>, dans sa déclinaison de l'information, élargit la mesure : en incluant les projets déjà lancés depuis janvier, l'enveloppe d'investissements français consacrée à 2026 dépasse 42 milliards d'euros (<a href="https://www.lefigaro.fr/societes/energie-data-centers-cosmetique-plus-de-42-milliards-d-euros-d-investissements-francais-en-2026-pour-le-choose-france-20261122">Le Figaro</a>). Les secteurs mentionnés s'étendent alors à l'énergie et aux data centers, en plus de la cosmétique. Le Figaro souligne que ce montant dépasse celui de 2025, dans une industrie hexagonale pourtant en berne.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://www.lemonde.fr/economie-francaise/article/2026/11/22/choose-france-273-projets-industriels-seront-presentes-lors-de-ce-sommet-devolu-aux-entreprises-tricolores_6814240_1656968.html">Le Monde — Choose France : 273 projets industriels seront présentés lors de ce sommet dévolu aux entreprises tricolores</a></li>
+<li><a href="https://www.lefigaro.fr/societes/energie-data-centers-cosmetique-plus-de-42-milliards-d-euros-d-investissements-francais-en-2026-pour-le-choose-france-20261122">Le Figaro — Énergie, data centers, cosmétique… Plus de 42 milliards d’euros d’investissements français en 2026 pour le «Choose France»</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>La parade nautique du Père Noël sur l'Adour ouvre Noël à Bayonne</title>
+      <link>https://sca64.github.io/news/articles/pays-basque-la-parade-nautique-du-pere-noel-sur-l-adour-ouvre-noel.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:pays-basque-la-parade-nautique-du-pere-noel-sur-l-adour-ouvre-noel</guid>
+      <pubDate>Sun, 22 Nov 2026 20:17:00 GMT</pubDate>
+      <description>Chaque année, Bayonne donne le coup d'envoi des festivités de Noël d'une manière un peu particulière : par l'eau.</description>
+      <content:encoded><![CDATA[<p>Chaque année, Bayonne donne le coup d'envoi des festivités de Noël d'une manière un peu particulière : par l'eau. La parade nautique du Père Noël sur l'Adour est devenue un rendez-vous incontournable dans la ville des Pyrénées-Atlantiques, et c'est elle qui lance officiellement les réjouissances de fin d'année.</p>
+<p>Cette année, le rendez-vous est fixé au <a href="https://actu.fr/nouvelle-aquitaine/bayonne_64102/la-celebre-parade-nautique-du-pere-noel-sur-l-adour-va-lancer-les-festivites-de-noel-a-bayonne-voici-quand_65077370.html">27 novembre 2026</a>.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://actu.fr/nouvelle-aquitaine/bayonne_64102/la-celebre-parade-nautique-du-pere-noel-sur-l-adour-va-lancer-les-festivites-de-noel-a-bayonne-voici-quand_65077370.html">Actu Pays Basque — La célèbre parade nautique du Père Noël sur l’Adour va lancer les festivités de Noël à Bayonne : voici quand</a></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>Macbeth, d'Orson Welles : l'accent écossais qui scandalisa l'Amérique</title>
       <link>https://sca64.github.io/news/articles/culture-macbeth-d-orson-welles-l-accent-ecossais-qui.html</link>
