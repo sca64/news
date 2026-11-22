@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="fr">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Essai du flux — News</title>
+<meta name="description" content="Article de test pour vérifier que le flux est bien lu par l'application lire sur iPhone.">
+<link rel="alternate" type="application/rss+xml" title="News" href="https://sca64.github.io/news/feed.xml">
+<style>
+:root { color-scheme: light dark; }
+body { max-width: 42rem; margin: 3rem auto; padding: 0 1.25rem; line-height: 1.6;
+       font: 18px/1.6 -apple-system, system-ui, sans-serif; }
+a { color: inherit; }
+h1 { line-height: 1.25; margin-bottom: .3rem; }
+time { opacity: .6; font-size: .9rem; }
+blockquote { margin-inline: 0; padding-left: 1rem; border-left: 3px solid currentColor; opacity: .85; }
+pre { overflow-x: auto; background: rgba(127,127,127,.14); padding: .8rem; border-radius: 6px; }
+code { font-family: ui-monospace, monospace; font-size: .92em; }
+nav { margin-top: 4rem; border-top: 1px solid rgba(127,127,127,.4); padding-top: 1rem; font-size: .9rem; }
+</style>
+<article>
+<h1>Essai du flux</h1>
+<time datetime="2026-11-22T13:00:00.000Z">22 novembre 2026</time>
+<p>Cet article sert uniquement à valider la chaîne complète : un fichier Markdown ici, un <code>git push</code>, et le texte apparaît dans un lecteur RSS sur iPhone.</p>
+<p>Le flux contient le texte intégral de chaque article dans <code>content:encoded</code>. Si l'application préfère extraire le texte depuis la page liée, elle trouvera une page HTML propre avec exactement le même contenu.</p>
+<h2>Ce qui est testé</h2>
+<ul>
+<li>le contenu intégral dans le flux ;</li>
+<li>les caractères accentués, y compris dans le titre ;</li>
+<li>les liens, comme <a href="../index.html">celui vers l'index</a> ;</li>
+<li>une liste, un paragraphe, et du texte en <strong>gras</strong>.</li>
+</ul>
+<p>Le reste suivra quand il y aura de quoi en faire un second.</p>
+</article>
+<nav><a href="../index.html">News</a> · <a href="https://sca64.github.io/news/feed.xml">flux RSS</a></nav>
+</html>
