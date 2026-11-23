@@ -5,9 +5,92 @@
     <link>https://sca64.github.io/news</link>
     <description>Flux RSS de mes articles.</description>
     <language>fr</language>
-    <lastBuildDate>Sun, 22 Nov 2026 20:39:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 05:47:53 GMT</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://sca64.github.io/news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Un calculateur local-first pour dimensionner un réseau mesh de ville</title>
+      <link>https://sca64.github.io/news/articles/dev-ia-un-calculateur-local-first-pour-dimensionner-un-reseau.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:dev-ia-un-calculateur-local-first-pour-dimensionner-un-reseau</guid>
+      <pubDate>Mon, 23 Nov 2026 05:47:00 GMT</pubDate>
+      <description>Ce calculateur vise une question très concrète : où placer les liens radio et combien de nœuds prévoir pour le réseau maillé d'une ville.</description>
+      <content:encoded><![CDATA[<p><a href="https://meshcoveragecalculator.lalala.ing/">Ce calculateur</a> vise une question très concrète : où placer les liens radio et combien de nœuds prévoir pour le réseau maillé d'une ville. Pour estimer la couverture, il se dit construit sur « FSPL + Delta-Bullington », les deux références qu'il cite dans sa description.</p>
+<p>Le projet se revendique « local-first » et s'appuie sur la WASM : le calcul est embarqué dans l'outil lui-même, ce qui le rend utilisable sans infrastructure à prévoir de son côté.</p>
+<p>L'ambition va au-delà de la carte. Le but affiché est de rendre possibles des appels passés à travers le réseau mesh — et l'auteur assume une position, un brin agacée, à l'égard de ceux qui encadrent l'usage de ces réseaux :</p>
+<blockquote><p>faire cela <em>without pissing off anybody in the process</em> — « yes, I'm talking about you, Meshtastic maintainers ».</p></blockquote>
+<p>Le calculateur, toutefois, ne se présente pas comme une réponse mais comme une proposition. Son auteur écrit inviter chacun à lui dire si l'idée « fait sens ou n'en fait pas », pendant qu'il continue d'avancer de son côté. On a donc affaire à un instrument de discussion : il chiffre, il suggère, il laisse le débat ouvert sur la faisabilité même de l'entreprise.</p>
+<p>Reste à savoir si les chiffres qu'il produit tiennent la route, ce que sa description laisse précisément en suspens.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://meshcoveragecalculator.lalala.ing/">Lobsters — Calculate radio link placement and node amount for your city's mesh network</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Sous l'église de Toulouges, une crypte médiévale refait surface</title>
+      <link>https://sca64.github.io/news/articles/occitanie-sous-l-eglise-de-toulouges-une-crypte-medievale-refait.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:occitanie-sous-l-eglise-de-toulouges-une-crypte-medievale-refait</guid>
+      <pubDate>Mon, 23 Nov 2026 05:47:00 GMT</pubDate>
+      <description>Sous le sol de l'église Sainte-Marie de Toulouges, dans les Pyrénées-Orientales, un vestige architectural d'une rareté remarquable vient de revoir la lumière du jour.</description>
+      <content:encoded><![CDATA[<p>Sous le sol de l'église Sainte-Marie de Toulouges, dans les Pyrénées-Orientales, un vestige architectural <a href="https://france3-regions.franceinfo.fr/occitanie/pyrenees-orientales/perpignan/un-element-architectural-tres-rare-sous-l-eglise-une-crypte-longtemps-enfouie-refait-surface-pres-de-mille-ans-apres-sa-construction-3453345.html">d'une rareté remarquable</a> vient de revoir la lumière du jour. La crypte, ensevelie sous un remblai depuis une période que les responsables du projet qualifient de « très rare », refait surface près de mille ans après sa construction.</p>
+<p>Cette mise au jour n'est pas le fruit du hasard. Elle s'inscrit dans un vaste projet de restauration du monument, une entreprise d'envergure qui profite des travaux de remise en état pour exhumer ce que la terre avait recouvert. L'opération revêt une portée symbolique particulière : elle coïncide avec l'approche du millénaire de la <em>Pau i Treva</em>, le concile qui s'est tenu dans la cité catalane en 1027. Un anniversaire que la municipalité et les acteurs du patrimoine local entendent célébrer dans les mois à venir.</p>
+<p>Pour les historiens de l'art et les amateurs d'architecture religieuse, la redécouverte d'une crypte enfouie offre une occasion précieuse : celle d'observer, <em>in situ</em>, des dispositions structurelles que les siècles et les reprises successives avaient rendues invisibles. Chaque pierre retrouvée sous le remblai éclaire un pan de la construction médiévale du Languedoc catalan.</p>
+<p>La restauration se poursuit, et avec elle, l'espoir que d'autres surprises architecturales attendent encore sous les dalles de l'église Sainte-Marie.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://france3-regions.franceinfo.fr/occitanie/pyrenees-orientales/perpignan/un-element-architectural-tres-rare-sous-l-eglise-une-crypte-longtemps-enfouie-refait-surface-pres-de-mille-ans-apres-sa-construction-3453345.html">France 3 Occitanie — "Un élément architectural très rare" : Sous l'église, une crypte longtemps enfouie refait surface près de mille ans après sa construction</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Chez Burger King, une IA évalue les drive et pousse un employé à parler comme un robot</title>
+      <link>https://sca64.github.io/news/articles/techno-chez-burger-king-une-ia-evalue-les-drive-et-pousse-un.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:techno-chez-burger-king-une-ia-evalue-les-drive-et-pousse-un</guid>
+      <pubDate>Mon, 23 Nov 2026 05:47:00 GMT</pubDate>
+      <description>Aux États-Unis, Burger King a confié la notation des conversations de ses employés du drive à une intelligence artificielle .</description>
+      <content:encoded><![CDATA[<p>Aux États-Unis, <a href="https://www.lesnumeriques.com/intelligence-artificielle/un-employe-de-burger-king-s-est-mis-a-parler-comme-un-robot-aux-clients-pour-eviter-d-etre-sanctionne-par-une-ia-qui-notait-tous-ses-echanges-et-le-penalisait-en-cas-de-mauvaise-note-n268246.html">Burger King a confié la notation des conversations de ses employés du drive à une intelligence artificielle</a>. Le système examine la politesse, le ton de la voix et les efforts de vente de chaque salarié, et le pénalise en cas de mauvaise note.</p>
+<p>Face à cette pression algorithmique, l'un des employés a trouvé la parade : se mettre à parler exactement comme un robot. Pas une imitation approximative, mais une reproduction fidèle du langage mécanique que le logiciel attendait pour attribuer une bonne évaluation. En évitant toute variation de ton, toute spontanéité, tout écart par rapport à la formulation standardisée, il s'est mis à l'abri des mauvaises notes.</p>
+<p>Les clients, eux, ont remarqué. Certains lui demandaient carrément s'il était humain.</p>
+<p>Ce petit fait divers américain dit quelque chose de plus large sur la rencontre entre outils d'évaluation automatisés et métiers du contact. Quand un logiciel devient la seule autorité qui juge la qualité d'un échange, la stratégie rationnelle pour le salarié n'est plus de bien servir le client, mais de satisfaire le modèle. On optimise pour la métrique, pas pour le réel. L'employé n'a pas triché : il a simplement compris les règles du jeu et y a joué à fond. Le robot, c'est devenu lui, parce que l'IA qui le notait n'était pas capable de faire la différence.</p>
+<p>Il n'y a pas ici de technologie nouvelle : la notation automatique de conversations téléphoniques existe depuis longtemps. Ce qui change, c'est la généralisation de ces systèmes à des dizaines de milliers d'interactions quotidiennes, et la certitude pour les employés que l'algorithme, lui, ne se fatigue pas et ne pardonne pas.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://www.lesnumeriques.com/intelligence-artificielle/un-employe-de-burger-king-s-est-mis-a-parler-comme-un-robot-aux-clients-pour-eviter-d-etre-sanctionne-par-une-ia-qui-notait-tous-ses-echanges-et-le-penalisait-en-cas-de-mauvaise-note-n268246.html">Les Numériques — Actualité : Un employé de Burger King s'est mis à parler comme un robot aux clients pour éviter d'être sanctionné par une IA qui notait tous ses échanges et le pénalisait en cas de mauvaise note</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Voiture : sept millions de Français entre nécessité et coût</title>
+      <link>https://sca64.github.io/news/articles/national-voiture-sept-millions-de-francais-entre-necessite-et.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:national-voiture-sept-millions-de-francais-entre-necessite-et</guid>
+      <pubDate>Mon, 23 Nov 2026 05:46:00 GMT</pubDate>
+      <description>En France, sept millions de personnes sont prises en étau entre la nécessité de disposer d'une voiture et le coût que celle-ci représente.</description>
+      <content:encoded><![CDATA[<p>En France, sept millions de personnes sont prises en étau entre la nécessité de disposer d'une voiture et le coût que celle-ci représente. C'est le constat dressé par une étude publiée lundi par l'<a href="https://www.lemonde.fr/economie/article/2026/11/23/voiture-sept-millions-de-personnes-en-france-prises-en-etau-entre-necessite-et-cout-pointe-une-etude_6814273_3234.html">Institut Terram</a>, dans un contexte où les dépenses de carburant restent élevées.</p>
+<p>L'étude met en évidence un contraste net entre les différents niveaux de revenus :</p>
+<ul>
+<li>La voiture représente 13 % du budget des ménages disposant de 1 000 à 2 000 euros par mois</li>
+<li>Elle ne pèse que 3,5 % du budget pour ceux dont les revenus dépassent 5 000 euros</li>
+</ul>
+<p>Autrement dit, les plus modestes sont aussi ceux pour qui l'automobile absorbe la part la plus importante de leur budget.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://www.lemonde.fr/economie/article/2026/11/23/voiture-sept-millions-de-personnes-en-france-prises-en-etau-entre-necessite-et-cout-pointe-une-etude_6814273_3234.html">Le Monde — Voiture : sept millions de personnes en France prises en étau entre nécessité et coût, pointe une étude</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Règle d'or budgétaire : Macron envisage de réunir le Congrès à Versailles</title>
+      <link>https://sca64.github.io/news/articles/national-regle-d-or-budgetaire-macron-envisage-de-reunir-le.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:national-regle-d-or-budgetaire-macron-envisage-de-reunir-le</guid>
+      <pubDate>Sun, 22 Nov 2026 22:31:00 GMT</pubDate>
+      <description>Devant le dérapage des finances publiques et de l'endettement, Emmanuel Macron envisage de réunir le Congrès à Versailles pour faire adopter une « règle d'or » budgétaire, une procédure qualifiée d'inédite à plus d'un titre par Le Monde .</description>
+      <content:encoded><![CDATA[<p>Devant le dérapage des finances publiques et de l'endettement, Emmanuel Macron envisage de réunir le Congrès à Versailles pour faire adopter une « règle d'or » budgétaire, une procédure <a href="https://www.lemonde.fr/politique/article/2026/11/22/emmanuel-macron-envisage-de-reunir-le-congres-a-versailles-pour-faire-adopter-une-regle-d-or-budgetaire-une-procedure-inedite-a-plus-d-un-titre_6814241_823448.html">qualifiée d'inédite à plus d'un titre par Le Monde</a>. Le chef de l'Etat évoque l'idée d'une mesure contraignante inscrite dans la Constitution.</p>
+<p><a href="https://www.lefigaro.fr/politique/budget-emmanuel-macron-envisagerait-un-congres-sur-la-regle-d-or-droite-et-rn-sont-favorables-mais-critiques-20261122">Le Figaro</a> ajoute que le président songerait à convoquer députés et sénateurs en janvier, en s'appuyant sur un projet de loi constitutionnelle adopté par l'Assemblée et le Sénat en 2011, mais jamais soumis au vote final. La droite et le Rassemblement national se disent favorables au principe, tout en formulant des critiques.</p>
+<p>Concrètement, ce mécanisme, que <a href="https://www.lefigaro.fr/conjoncture/la-regle-d-or-peut-elle-vraiment-contraindre-la-france-a-sortir-de-la-spirale-infernale-de-la-dette-20261122">Le Figaro décrypte ici</a>, interdirait aux parlementaires de voter une loi de finances dépassant un certain niveau de déficit public. Le quotidien souligne que la règle d'or est plébiscitée par plusieurs candidats à l'élection présidentielle.</p>
+<p>Sur l'échiquier, Le Monde indique que le Rassemblement national, favorable au principe, devrait jouer les arbitres sur les modalités. C'est dire que la réussite de la manœuvre dépendra d'un compromis avec le RN sur le contenu précis de la contrainte constitutionnelle.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://www.lemonde.fr/politique/article/2026/11/22/emmanuel-macron-envisage-de-reunir-le-congres-a-versailles-pour-faire-adopter-une-regle-d-or-budgetaire-une-procedure-inedite-a-plus-d-un-titre_6814241_823448.html">Le Monde — Emmanuel Macron envisage de réunir le Congrès à Versailles pour faire adopter une « règle d’or » budgétaire, une procédure inédite à plus d’un titre</a></li>
+<li><a href="https://www.lefigaro.fr/politique/budget-emmanuel-macron-envisagerait-un-congres-sur-la-regle-d-or-droite-et-rn-sont-favorables-mais-critiques-20261122">Le Figaro — Budget : Emmanuel Macron envisagerait un Congrès sur la règle d’or, droite et RN sont favorables mais critiques</a></li>
+<li><a href="https://www.lefigaro.fr/conjoncture/la-regle-d-or-peut-elle-vraiment-contraindre-la-france-a-sortir-de-la-spirale-infernale-de-la-dette-20261122">Le Figaro — La règle d’or peut-elle vraiment contraindre la France à sortir de la spirale infernale de la dette ?</a></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>Les petites salles de concert, incubateurs en danger</title>
       <link>https://sca64.github.io/news/articles/culture-les-petites-salles-de-concert-incubateurs-en-danger.html</link>
@@ -142,6 +225,34 @@
 <li>une liste, un paragraphe, et du texte en <strong>gras</strong>.</li>
 </ul>
 <p>Le reste suivra quand il y aura de quoi en faire un second.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Disney : des robots Star Wars qui choisissent seuls quoi dire</title>
+      <link>https://sca64.github.io/news/articles/techno-disney-des-robots-star-wars-qui-choisissent-seuls-quoi.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:techno-disney-des-robots-star-wars-qui-choisissent-seuls-quoi</guid>
+      <pubDate>Sat, 21 Nov 2026 23:03:00 GMT</pubDate>
+      <description>Disney a présenté trois petits robots inspirés des Anzellans, créatures de l'univers Star Wars.</description>
+      <content:encoded><![CDATA[<p>Disney a présenté trois petits robots inspirés des Anzellans, créatures de l'univers Star Wars. Contrairement aux animatroniques traditionnels, ces personnages ne s'appuient sur aucune boucle audio préenregistrée et ne nécessitent aucun opérateur humain pour interagir avec le public, comme le détaille <a href="https://www.lesnumeriques.com/intelligence-artificielle/disney-cree-trois-petits-robots-star-wars-qui-voient-et-entendent-les-visiteurs-puis-choisissent-seuls-quoi-dire-et-comment-reagir-grace-a-l-ia-n268236.html">Les Numériques</a>.</p>
+<p>Ces robots sont équipés de caméras et de microphones. Ils exploitent plusieurs modèles d'intelligence artificielle hébergés sur les serveurs d'Amazon. Concrètement, ils « voient » les visiteurs, les entendent, puis choisissent seuls quoi dire et comment réagir, selon la nature de chaque interaction. Pas de script figé, pas de comédien caché derrière un costume : la réponse naît du traitement en temps réel de ce que les capteurs perçoivent de la scène.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://www.lesnumeriques.com/intelligence-artificielle/disney-cree-trois-petits-robots-star-wars-qui-voient-et-entendent-les-visiteurs-puis-choisissent-seuls-quoi-dire-et-comment-reagir-grace-a-l-ia-n268236.html">Les Numériques — Actualité : Disney crée trois petits robots Star Wars qui voient et entendent les visiteurs puis choisissent seuls quoi dire et comment réagir grâce à l’IA</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>La Courstache : 2 400 moustachus pour un record de dons à Montpellier</title>
+      <link>https://sca64.github.io/news/articles/occitanie-la-courstache-2-400-moustachus-pour-un-record-de-dons.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:occitanie-la-courstache-2-400-moustachus-pour-un-record-de-dons</guid>
+      <pubDate>Sat, 21 Nov 2026 23:02:00 GMT</pubDate>
+      <description>Dimanche 22 novembre 2026, les rues de Montpellier se sont animées au son d'une cause sérieuse déguisée en fête.</description>
+      <content:encoded><![CDATA[<p>Dimanche 22 novembre 2026, les rues de Montpellier se sont animées au son d'une cause sérieuse déguisée en fête. <a href="https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/c-est-pour-une-cause-qui-nous-concerne-tous-deguisements-moustaches-et-record-de-dons-pour-cette-course-solidaire-contre-les-cancers-masculins-3454059.html">Pour sa cinquième édition, la course caritative "La Courstache"</a> a réuni plus de 2 400 participants, tous arborant moustaches et déguisements pour sensibiliser à la lutte contre les cancers masculins.</p>
+<p>Le principe est aussi simple que fédérateur : courir en se déguisant, afficher une moustache, et rassembler des fonds pour la recherche. L'édition de cette année a permis de récolter la somme record de 50 000 euros, un montant jamais atteint lors des quatre courses précédentes. Comme le résume un participant cité par la rédaction, « <em>c'est pour une cause qui nous concerne tous</em> ».</p>
+<p>La course s'inscrit dans un paysage où les cancers masculins restent trop souvent diagnostiqués tardivement, et où le silence autour de ces maladies persiste. L'approche festive et bon enfant de la Courstache tente précisément de briser ce tabou : on n'en parle pas lors d'une conférence austère, on en court, on en rit, on en se déguise, on en lève les bras à l'arrivée.</p>
+<p>À Montpellier, l'événement a pris une ampleur qui dépasse le simple footing dominical. Deux mille quatre cents personnes dans les rues, c'est un quartier qui vibre, un élan collectif qui donne à voir un sujet de santé publique sans lourdeur. Le record de dons confirme que la formule fonctionne et que le public suit, édition après édition.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/c-est-pour-une-cause-qui-nous-concerne-tous-deguisements-moustaches-et-record-de-dons-pour-cette-course-solidaire-contre-les-cancers-masculins-3454059.html">France 3 Occitanie — "C'est pour une cause qui nous concerne tous !" : déguisements, moustaches et record de dons pour cette course solidaire contre les cancers masculins</a></li>
+</ul>]]></content:encoded>
     </item>
   </channel>
 </rss>

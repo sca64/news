@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="fr">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Un calculateur local-first pour dimensionner un réseau mesh de ville — News</title>
+<meta name="description" content="Ce calculateur vise une question très concrète : où placer les liens radio et combien de nœuds prévoir pour le réseau maillé d'une ville.">
+<link rel="alternate" type="application/rss+xml" title="News" href="https://sca64.github.io/news/feed.xml">
+<style>
+:root { color-scheme: light dark; }
+body { max-width: 42rem; margin: 3rem auto; padding: 0 1.25rem; line-height: 1.6;
+       font: 18px/1.6 -apple-system, system-ui, sans-serif; }
+a { color: inherit; }
+h1 { line-height: 1.25; margin-bottom: .3rem; }
+time { opacity: .6; font-size: .9rem; }
+blockquote { margin-inline: 0; padding-left: 1rem; border-left: 3px solid currentColor; opacity: .85; }
+pre { overflow-x: auto; background: rgba(127,127,127,.14); padding: .8rem; border-radius: 6px; }
+code { font-family: ui-monospace, monospace; font-size: .92em; }
+nav { margin-top: 4rem; border-top: 1px solid rgba(127,127,127,.4); padding-top: 1rem; font-size: .9rem; }
+</style>
+<article>
+<h1>Un calculateur local-first pour dimensionner un réseau mesh de ville</h1>
+<time datetime="2026-11-23T05:47:00.000Z">23 novembre 2026</time>
+<p><a href="https://meshcoveragecalculator.lalala.ing/">Ce calculateur</a> vise une question très concrète : où placer les liens radio et combien de nœuds prévoir pour le réseau maillé d'une ville. Pour estimer la couverture, il se dit construit sur « FSPL + Delta-Bullington », les deux références qu'il cite dans sa description.</p>
+<p>Le projet se revendique « local-first » et s'appuie sur la WASM : le calcul est embarqué dans l'outil lui-même, ce qui le rend utilisable sans infrastructure à prévoir de son côté.</p>
+<p>L'ambition va au-delà de la carte. Le but affiché est de rendre possibles des appels passés à travers le réseau mesh — et l'auteur assume une position, un brin agacée, à l'égard de ceux qui encadrent l'usage de ces réseaux :</p>
+<blockquote><p>faire cela <em>without pissing off anybody in the process</em> — « yes, I'm talking about you, Meshtastic maintainers ».</p></blockquote>
+<p>Le calculateur, toutefois, ne se présente pas comme une réponse mais comme une proposition. Son auteur écrit inviter chacun à lui dire si l'idée « fait sens ou n'en fait pas », pendant qu'il continue d'avancer de son côté. On a donc affaire à un instrument de discussion : il chiffre, il suggère, il laisse le débat ouvert sur la faisabilité même de l'entreprise.</p>
+<p>Reste à savoir si les chiffres qu'il produit tiennent la route, ce que sa description laisse précisément en suspens.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://meshcoveragecalculator.lalala.ing/">Lobsters — Calculate radio link placement and node amount for your city's mesh network</a></li>
+</ul>
+</article>
+<nav><a href="../index.html">News</a> · <a href="https://sca64.github.io/news/feed.xml">flux RSS</a></nav>
+</html>
