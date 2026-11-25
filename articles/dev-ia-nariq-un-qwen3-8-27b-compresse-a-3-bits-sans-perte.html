@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="fr">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NariQ : un Qwen3.8-27B compressé à 3 bits sans perte notable — News</title>
+<meta name="description" content="Nari Labs a publié une version quantisée à 3 bits ou moins du modèle Qwen3.8-27B, et les chiffres publiés donnent le vertige : la qualité reste proche du BF16 sur des tâches agentiques longues, du raisonnement mathématique et de la compréhension d'images multilingue.">
+<link rel="alternate" type="application/rss+xml" title="News" href="https://sca64.github.io/news/feed.xml">
+<style>
+:root { color-scheme: light dark; }
+body { max-width: 42rem; margin: 3rem auto; padding: 0 1.25rem; line-height: 1.6;
+       font: 18px/1.6 -apple-system, system-ui, sans-serif; }
+a { color: inherit; }
+h1 { line-height: 1.25; margin-bottom: .3rem; }
+time { opacity: .6; font-size: .9rem; }
+blockquote { margin-inline: 0; padding-left: 1rem; border-left: 3px solid currentColor; opacity: .85; }
+pre { overflow-x: auto; background: rgba(127,127,127,.14); padding: .8rem; border-radius: 6px; }
+code { font-family: ui-monospace, monospace; font-size: .92em; }
+nav { margin-top: 4rem; border-top: 1px solid rgba(127,127,127,.4); padding-top: 1rem; font-size: .9rem; }
+</style>
+<article>
+<h1>NariQ : un Qwen3.8-27B compressé à 3 bits sans perte notable</h1>
+<time datetime="2026-11-24T05:48:00.000Z">24 novembre 2026</time>
+<p>Nari Labs a publié une version quantisée à 3 bits ou moins du modèle Qwen3.8-27B, et les chiffres publiés donnent le vertige : la qualité reste proche du BF16 sur des tâches agentiques longues, du raisonnement mathématique et de la compréhension d'images multilingue.</p>
+<p>L'équipe affirme qu'il s'agit, à sa connaissance, de la première quantisation à 3 bits ou moins qui conserve un niveau BF16 sur des tâches agentiques de type <em>long-horizon</em>. Le fichier est disponible sur <a href="https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF">Hugging Face</a> au format GGUF, donc exploitable dans les runtimes locaux classiques.</p>
+<p>Les benchmarks publiés dans la dépêche (BF16 / 3-bit / 2.5-bit / 2-bit) racontent une histoire claire :</p>
+<ul>
+<li><strong>DeepSWE</strong> : 39.8 / 41.0 / 41.9 / 28.6</li>
+<li><strong>Terminal-Bench 2.1</strong> : 62.6 / 63.8 / 60.2 / (valeur tronquée dans la dépêche)</li>
+</ul>
+<p>À 3 bits et même à 2,5 bits, les scores égalent ou dépassent le BF16 d'origine. La chute n'apparaît qu'en dessous de 2 bits, où DeepSWE plonge à 28.6. Autrement dit, la compression à 3 bits ne sacrifice presque rien pour un modèle de 27 milliards de paramètres.</p>
+<p>Le reste des benchmarks (raisonnement multilingue, compréhension d'images) est mentionné sans chiffres détaillés dans la dépêche, ce qui laisse au lecteur le soin de consulter le dépôt pour la vue complète.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF">Hacker News (100 points et plus) — NariQ: BF16-level Qwen3.8</a></li>
+</ul>
+</article>
+<nav><a href="../index.html">News</a> · <a href="https://sca64.github.io/news/feed.xml">flux RSS</a></nav>
+</html>

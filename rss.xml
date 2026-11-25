@@ -5,9 +5,535 @@
     <link>https://sca64.github.io/news</link>
     <description>Flux RSS de mes articles.</description>
     <language>fr</language>
-    <lastBuildDate>Mon, 23 Nov 2026 07:26:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:16:04 GMT</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://sca64.github.io/news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Anthropic accuse une entreprise de distillation via son API</title>
+      <link>https://sca64.github.io/news/articles/dev-ia-anthropic-accuse-une-entreprise-de-distillation-via.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:dev-ia-anthropic-accuse-une-entreprise-de-distillation-via</guid>
+      <pubDate>Wed, 25 Nov 2026 08:02:00 GMT</pubDate>
+      <description>Un développeur a lancé un fil d'alerte sur Hacker News pour raconter une expérience qui, à en juger par les 120 et quelques réponses, touche visiblement plus d'une équipe : Anthropic accuse sa société d'avoir utilisé l'API pour distiller le modèle.</description>
+      <content:encoded><![CDATA[<p>Un développeur a lancé un <a href="https://news.ycombinator.com/item?id=50630809">fil d'alerte sur Hacker News</a> pour raconter une expérience qui, à en juger par les 120 et quelques réponses, touche visiblement plus d'une équipe : Anthropic accuse sa société d'avoir utilisé l'API pour distiller le modèle. La règle, dans le message, est simple et brutale — 24 heures pour prouver l'absence de distillation.</p>
+<p>Le témoignage n'est pas celui d'un concurrent qui entraîne ses propres poids. L'auteur précise clairement qu'il n'entraîne pas de modèle et que le seul usage susceptible, selon lui, de déclencher le drapeau rouge est un enchaînement de benchmarks de régression automatiques, déclenchés à chaque modification des paramètres IA du produit. Rien qui, d'après sa lecture des conditions, ne constituerait une violation — et pourtant le courrier est arrivé.</p>
+<p>Il pose ensuite la question à laquelle personne n'a de réponse toute prête : <em>how can you prove that you are not distilling Anthropic?</em> La charge de la preuve est inversée par rapport à la plupart des litiges logiciels. Il ne s'agit pas de montrer qu'on a enfreint une clause ; il s'agit de produire, sous contrainte horaire, la trace exhaustive de ce qu'on n'a pas fait. Le fil recense un nombre impressionnant de commentaires, signe que la crainte est partagée par d'autres équipes, pas isolée.</p>
+<p>À ce stade de la discussion, on ignore si le compte a été rétabli, si Anthropic a fourni le détail du motif, ou si une clause spécifique encadre réellement les benchmarks automatisés. Le fil reste ouvert.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://news.ycombinator.com/item?id=50630809">Hacker News (100 points et plus) — Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Signal verrouille ses écrans contre les agents IA</title>
+      <link>https://sca64.github.io/news/articles/techno-signal-verrouille-ses-ecrans-contre-les-agents-ia.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:techno-signal-verrouille-ses-ecrans-contre-les-agents-ia</guid>
+      <pubDate>Wed, 25 Nov 2026 08:02:00 GMT</pubDate>
+      <description>La messagerie chiffrée Signal avait bâti sa réputation sur une promesse simple : personne ne lit ce qui circule entre vos mains.</description>
+      <content:encoded><![CDATA[<p>La messagerie chiffrée Signal avait bâti sa réputation sur une promesse simple : personne ne lit ce qui circule entre vos mains. Mais l'arrivée des agents IA capables de scruter l'écran de l'utilisateur vient ébrécher cette promesse, et <a href="https://next.ink/269751/signal-veut-empecher-les-agents-ia-de-lire-les-messages/">Signal a décidé de bouger</a>.</p>
+<p>Le problème n'est pas nouveau en soi : un agent IA tourne sur l'appareil, observe ce qui s'affiche, et peut en théorie retranscrire une conversation, une adresse, un code de confirmation. Ce que Signal qualifie d'« IA agentique » ne passe plus par les serveurs du service, il contourne donc tout chiffrement de bout en bout en opérant là où le message est déjà décodé, sous vos yeux. La protection historique de la messagerie devient inopérante à l'endroit précis où l'utilisateur en a le plus besoin.</p>
+<p>En réponse, la plateforme a déployé un nouveau réglage dans ses versions iOS et Android. L'idée est de limiter ce que ces agents peuvent voir à l'écran, sans casser l'usage normal de l'application. Signal ne peut cependant pas aller aussi loin que ses concepteurs le souhaiteraient : les contraintes propres aux deux systèmes d'exploitation bornent l'étendue du blocage possible.</p>
+<p>L'affaire illustre un déplacement du débat : la confidentialité ne se joue plus seulement entre vous et un serveur, mais aussi entre vous et un logiciel tiers qui tourne dans votre poche, autorisé à observer par le système lui-même. Un chiffrement irréprochable ne sert plus à grand-chose si un programme local lit l'écran. La marche, pour les défenseurs de la vie privée, est désormais locale.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://next.ink/269751/signal-veut-empecher-les-agents-ia-de-lire-les-messages/">Next — Signal veut empêcher les agents IA de lire les messages</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Présidentielle 2027 : la gauche se rallie autour de Mélenchon</title>
+      <link>https://sca64.github.io/news/articles/national-presidentielle-2027-la-gauche-se-rallie-autour-de.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:national-presidentielle-2027-la-gauche-se-rallie-autour-de</guid>
+      <pubDate>Wed, 25 Nov 2026 08:01:00 GMT</pubDate>
+      <description>La dynamique est nette.</description>
+      <content:encoded><![CDATA[<p>La dynamique est nette. Après la majorité du groupe communiste à l'Assemblée nationale, puis Marine Tondelier, secrétaire nationale des Ecologistes, c'est au tour du parti Génération.s d'apporter son soutien à Jean-Luc Mélenchon en vue du scrutin présidentiel d'avril 2027, <a href="https://www.lemonde.fr/politique/article/2026/11/25/presidentielle-2027-lfi-force-d-attraction-a-gauche_6815035_823448.html">selon <em>Le Monde</em></a>.</p>
+<p>La France insoumise ne cache plus son ambition : le parti lorgne désormais la candidature de Fabien Roussel, jusqu'ici secrétaire national du Parti communiste. Autrement dit, LFI ne se contente plus de ralliements symboliques — elle vise l'absorption d'une candidature concurrente à sa propre gauche.</p>
+<p>Ce mouvement de gravitational s'inscrit dans un paysage où la gauche cherche encore sa cohérence. Le même jour, à Paris, des anciens de la gauche plurielle tenaient un colloque nostalgique de la méthode Jospin, déplorant que l'ancien premier ministre, figure morale à gauche, n'ait pas d'héritier direct dans la campagne présidentielle. Ses anciens ministres y ont décrit ce qu'ils considèrent comme le dernier âge d'or de la gauche française, par contraste avec la situation actuelle.</p>
+<p>Deux temps, donc. D'un côté, des ralliements pragmatiques autour du leader insoumis. De l'autre, un regret assumé d'une méthode — celle des coalitions plurielles — que la campagne 2027 ne semble pour l'instant reproduire avec personne.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://www.lemonde.fr/politique/article/2026/11/25/presidentielle-2027-lfi-force-d-attraction-a-gauche_6815035_823448.html">Le Monde — Présidentielle 2027 : LFI, force d’attraction à gauche</a></li>
+<li><a href="https://www.lemonde.fr/politique/article/2026/11/25/les-anciens-de-la-gauche-plurielle-en-colloque-a-paris-nostalgiques-de-la-methode-jospin_6815058_823448.html">Le Monde — Les anciens de la gauche plurielle, en colloque à Paris, nostalgiques de la méthode Jospin</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Influenceur menacé devant chez lui, Tibo InShape porte plainte</title>
+      <link>https://sca64.github.io/news/articles/occitanie-influenceur-menace-devant-chez-lui-tibo-inshape-porte.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:occitanie-influenceur-menace-devant-chez-lui-tibo-inshape-porte</guid>
+      <pubDate>Wed, 25 Nov 2026 08:01:00 GMT</pubDate>
+      <description>Les vidéos de Tibo InShape sont suivies par 27 millions d'abonnés.</description>
+      <content:encoded><![CDATA[<p>Les vidéos de Tibo InShape sont suivies par 27 millions d'abonnés. Le youtubeur, originaire de Toulouse, vient de porter plainte après une action d'intimidation menée devant son domicile à Biarritz par un groupe identitaire d'extrême droite toulousain appelé Furie.</p>
+<p>Selon <a href="https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/fumigenes-et-pancartes-devant-chez-lui-l-influenceur-tibo-inshape-porte-plainte-contre-l-intimidation-d-identitaires-toulousains-3455483.html">France 3 Occitanie</a>, les militants ont déployé fumigènes et pancartes devant la maison de l'influenceur. Le groupe Furie se présente comme un collectif identitaire ancré à Toulouse.</p>
+<p>Le déclencheur remonte au 11 novembre dernier, date à laquelle le Toulousain avait publié une vidéo mettant en scène une coach sportive portant le drapeau français en guise de voile. Depuis la mise en ligne de cette séquence, le youtubeur fait l'objet d'attaques en ligne, dont l'action devant son domicile a constitué une escalade.</p>
+<p>L'affaire interroge la frontière entre expression en ligne et passage à l'acte : la publication d'une vidéo a suffi à mobiliser un groupe organisé jusqu'au pas de porte d'une résidence privée.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/fumigenes-et-pancartes-devant-chez-lui-l-influenceur-tibo-inshape-porte-plainte-contre-l-intimidation-d-identitaires-toulousains-3455483.html">France 3 Occitanie — Fumigènes et pancartes devant chez lui, l'influenceur Tibo InShape porte plainte contre l'intimidation d'identitaires toulousains</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>La multiplication matricielle en Θ(n^2.25)</title>
+      <link>https://sca64.github.io/news/articles/dev-ia-la-multiplication-matricielle-en-n-2-25.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:dev-ia-la-multiplication-matricielle-en-n-2-25</guid>
+      <pubDate>Wed, 25 Nov 2026 05:46:00 GMT</pubDate>
+      <description>Un préprint publié par l'équipe mathématique d'OpenAI sur GitHub avance un résultat qui pourrait compter parmi les plus commentés de l'année en informatique théorique : la complexité de la multiplication matricielle serait en Θ(n^2.25) , c'est-à-dire un exposant de neuf quarts.</description>
+      <content:encoded><![CDATA[<p>Un préprint publié par l'équipe mathématique d'OpenAI sur GitHub avance un résultat qui pourrait compter parmi les plus commentés de l'année en informatique théorique : <a href="https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf">la complexité de la multiplication matricielle serait en Θ(n^2.25)</a>, c'est-à-dire un exposant de neuf quarts.</p>
+<p>Le document, daté du 24 novembre 2026, se présente sous forme de PDF hébergé dans le dépôt <code>openai/math</code>. Il a été repris le jour même sur Hacker News avec 372 points et 189 commentaires — un volume d'échanges qui, à lui seul, dit quelque chose de la densité technique du sujet et de l'attention qu'il suscite au-delà du cercle des spécialistes en théorie de la complexité.</p>
+<p>Pour les personnes qui travaillent au quotidien avec les réseaux de neurones, la multiplication matricielle n'est pas un exercice abstrait : c'est l'opération qui structure l'entraînement et l'inférence. Toute réduction de son exposant asymptotique, si elle se traduit en gains pratiques à des tailles exploitables, touche directement l'échelle à laquelle on peut faire tourner des modèles.</p>
+<p>Le dépôt <code>openai/math</code> reste pour l'instant le seul point d'entrée vers le texte ; aucune publication en revue ni version HTML n'est mentionnée dans la dépêche. Les commentaires sur Hacker News et sur Lobsters constituent pour le moment l'espace où le résultat est discuté, vérifié, mis en doute.</p>
+<p>C'est une annonce brute, sans communiqué ni démonstration vulgarisée. Ceux qui voudront se faire une idée devront lire le PDF.</p>
+<p>Sources</p>
+<ul>
+<li>[Hacker News (100 points et plus) — Matrix Multiplication is Θ(n^2.25) [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf)</li>
+<li><a href="https://news.ycombinator.com/item?id=50637220">https://news.ycombinator.com/item?id=50637220</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Quad9 coupe son service en France, comment reprendre la main sur son DNS</title>
+      <link>https://sca64.github.io/news/articles/techno-quad9-coupe-son-service-en-france-comment-reprendre-la.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:techno-quad9-coupe-son-service-en-france-comment-reprendre-la</guid>
+      <pubDate>Wed, 25 Nov 2026 05:46:00 GMT</pubDate>
+      <description>Le fournisseur suisse de DNS alternatif Quad9 a annoncé son retrait de France ce 24 novembre 2026, à la suite d'une décision de justice.</description>
+      <content:encoded><![CDATA[<p>Le fournisseur suisse de DNS alternatif Quad9 a annoncé son retrait de France ce 24 novembre 2026, à la suite d'une décision de justice. Dans son communiqué, l'entreprise est catégorique : « Aujourd'hui, 24 novembre 2026, Quad9 désactivera ses services pour les utilisateurs français. Toute requête adressée à l'une des adresses de service de Quad9 sera donc refusée, et aucune résolution DNS n'aboutira. » En pratique, <a href="https://next.ink/brief-article/quad9-confirme-la-desactivation-de-son-service-en-france-aujourdhui/">l'utilisation depuis une adresse IP française n'est plus possible</a>.</p>
+<p>Pour celles et ceux qui pointent leur ordinateur, leur smartphone ou leur routeur vers les adresses de Quad9, la coupure est immédiate : plus aucune résolution. Il faut donc trouver une alternative — un autre résolveur public, ou reprendre soi-même la main. Next détaille une piste autonome : installer <a href="https://next.ink/260020/tuto-installer-facilement-son-propre-resolveur-dns-sur-raspberry-pi-vm-freebox-vps/">unbound</a>, un résolveur DNS local qui se met en place en quelques lignes de configuration sur un Raspberry Pi, une VM de Freebox ou un VPS. De quoi s'affranchir d'un résolveur externe, qu'il soit celui de son FAI ou d'un géant du numérique.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://next.ink/brief-article/quad9-confirme-la-desactivation-de-son-service-en-france-aujourdhui/">Next — ☕️ Quad9 confirme la désactivation de son service en France aujourd’hui</a></li>
+<li><a href="https://www.lesnumeriques.com/informatique/quad9-le-fournisseur-de-dns-quitte-la-france-suite-a-une-decision-de-justice-n268457.html">Les Numériques — Quad9 : le fournisseur de DNS quitte la France suite à une décision de justice</a></li>
+<li>[Next — [Tuto] Quad9 quitte la France, comment installer et utiliser son propre résolveur DNS](https://next.ink/260020/tuto-installer-facilement-son-propre-resolveur-dns-sur-raspberry-pi-vm-freebox-vps/)</li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>L'Assemblée adopte le projet de loi logement avec les voix du RN</title>
+      <link>https://sca64.github.io/news/articles/national-l-assemblee-adopte-le-projet-de-loi-logement-avec-les.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:national-l-assemblee-adopte-le-projet-de-loi-logement-avec-les</guid>
+      <pubDate>Wed, 25 Nov 2026 05:45:00 GMT</pubDate>
+      <description>Le projet de loi sur le logement a été voté à l'Assemblée nationale , grâce notamment aux suffrages du Rassemblement national.</description>
+      <content:encoded><![CDATA[<p>Le projet de loi sur le logement a été voté à <a href="https://www.lemonde.fr/societe/article/2026/11/24/l-assemblee-nationale-adopte-le-projet-de-loi-sur-le-logement-avec-les-voix-du-rassemblement-national_6814849_3224.html">l'Assemblée nationale</a>, grâce notamment aux suffrages du Rassemblement national. Un vote de synthèse qui porte en lui une contradiction que le ministre du logement, Vincent Jeanbrun, entend résoudre lors de la commission mixte paritaire prévue en décembre.</p>
+<p>L'enjeu porte sur un amendement déposé par les députés RN, qui met fin à l'interdiction de louer les passoires thermiques. C'est précisément cet amendement que le ministre compte faire supprimer en CMP, sans pour autant se priver, à ce stade, des voix qui ont permis l'adoption du texte en première lecture.</p>
+<p>On retrouve ici la mécanique familière du vote bloqué ou du compromis par le haut : le gouvernement accepte le concours électoral d'un groupe parlementaire sur l'ensemble d'un texte, tout en s'engageant à en retrancher, dans l'étape suivante, la disposition la plus emblématique du groupe en question. Reste à savoir si cette stratégie tiendra face à des députés RN qui n'auront pas manqué de remarquer que leur apport a été décisif pour faire passer un texte dont ils contestent une partie centrale.</p>
+<p>Le texte adopté reste toutefois un premier jalon : il doit encore passer le filtre de la commission mixte paritaire, puis un nouveau vote dans chaque chambre, avant d'être définitivement voté. La suite dira si le pari de Vincent Jeanbrun — obtenir le texte sans le contentieux des passoires thermiques, tout en ayant compté sur les voix qui le défendaient — résiste à l'épreuve des faits.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://www.lemonde.fr/societe/article/2026/11/24/l-assemblee-nationale-adopte-le-projet-de-loi-sur-le-logement-avec-les-voix-du-rassemblement-national_6814849_3224.html">Le Monde — L’Assemblée nationale adopte le projet de loi sur le logement, avec les voix du Rassemblement national</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Le canal du Midi, entre sécheresse, platanes abattus et fin du fret, cherche son nouveau m</title>
+      <link>https://sca64.github.io/news/articles/occitanie-le-canal-du-midi-entre-secheresse-platanes-abattus-et.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:occitanie-le-canal-du-midi-entre-secheresse-platanes-abattus-et</guid>
+      <pubDate>Wed, 25 Nov 2026 05:45:00 GMT</pubDate>
+      <description>Le canal du Midi n'est plus seulement un vestige classé au patrimoine mondial de l'Unesco : il est devenu un sujet de survie.</description>
+      <content:encoded><![CDATA[<p>Le canal du Midi n'est plus seulement un vestige classé au patrimoine mondial de l'Unesco : il est devenu un sujet de survie. À Toulouse, un colloque international consacré au site se penche sur les grands défis qui l'attendent — économie, gestion de l'eau, changement climatique, préservation des paysages — et sur la manière dont il peut encore <a href="https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/secheresse-platanes-abattus-et-fin-du-fret-entre-heritage-et-renouveau-le-canal-du-midi-cherche-son-modele-economique-et-touristique-pour-survivre-3455192.html">se réinventer pour préserver son avenir</a>.</p>
+<p>Les symptômes ne manquent pas. Le titre même de la dépêche résume le triptyque : sécheresse, platanes abattus, fin du fret. Trois coups portés à des équilibres anciens. L'âge d'or du transport fluvial, qui faisait du canal une artère économique vitale, appartient au passé. Les rangées d'arbres qui dessinaient son corridor verdoyant ont été décimées par les maladies et les abattages. Et l'eau, ressource fondatrice, se fait plus rare à mesure que le climat se dérègle.</p>
+<p>Reste le tourisme, qui est aujourd'hui la principale raison d'être du canal. Mais un modèle touristique ne s'entretient pas avec les seuls droits d'inscription à un classement international. Il faut de l'eau pour les péniches, des berges stables, un paysage qui donne envie. Autant de conditions que la sécheresse et la disparition progressive des platanes fragilisent chaque saison.</p>
+<p>Le colloque de Toulouse ne prétend pas trancher seul. Il inscrit la réflexion dans une durée plus longue, depuis les premiers bateaux de marchandise jusqu'aux questions environnementales contemporaines. Entre héritage et renouveau, la formule est simple à énoncer, difficile à financer : comment faire vivre un ouvrage du XVIIe siècle avec les contraintes du XXIe, sans le figer sous cloche ni le laisser se dessécher ?</p>
+<p>Les réponses, manifestement, ne viendront pas d'un seul texte de loi ni d'un seul budget. Elles passeront par une ingénierie locale, une gestion concertée de la ressource en eau, et sans doute une acceptation plus lucide de ce que le canal ne sera plus jamais une voie de fret. Il sera — ou ne sera pas — une destination.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/secheresse-platanes-abattus-et-fin-du-fret-entre-heritage-et-renouveau-le-canal-du-midi-cherche-son-modele-economique-et-touristique-pour-survivre-3455192.html">France 3 Occitanie — Sécheresse, platanes abattus et fin du fret : entre héritage et renouveau, le canal du Midi cherche son modèle économique et touristique pour survivre</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Tidal bannit la musique générée par IA</title>
+      <link>https://sca64.github.io/news/articles/dev-ia-tidal-bannit-la-musique-generee-par-ia.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:dev-ia-tidal-bannit-la-musique-generee-par-ia</guid>
+      <pubDate>Tue, 24 Nov 2026 22:32:00 GMT</pubDate>
+      <description>Le service de streaming Tidal a décidé d'interdire la musique générée par intelligence artificielle sur sa plateforme, selon une information publiée par Variety .</description>
+      <content:encoded><![CDATA[<p>Le service de streaming Tidal a décidé d'interdire la musique générée par intelligence artificielle sur sa plateforme, selon une information publiée par <a href="https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/">Variety</a>.</p>
+<p>La nouvelle a provoqué un débat nourri sur Hacker News, avec 309 points et 292 commentaires, signe d'une vive réaction de la communauté technique. Les discussions portent sur les frontières entre outil d'aide à la composition et production entièrement générative, sur la détection fiable de l'origine d'une piste audio, et sur la possibilité de faire respecter une telle règle à grande échelle.</p>
+<p>Le geste de Tidal tranche dans un paysage où la plupart des plateformes n'ont pas encore pris position formelle. Il pose la question de la définition opérationnelle d'un contenu « généré par IA » : s'agit-il d'une piste entièrement synthétisée, ou d'un titre dont un instrument ou une voix aura été produit par un modèle ? Tant que la frontière n'est pas tracée, la règle reste difficile à appliquer.</p>
+<p>Pour les artistes, la décision peut se lire comme une protection du travail humain dans un catalogue déjà saturé de productions à coût marginal quasi nul. Pour les auditeurs, elle interroge la transparence : comment savoir si un titre est exclu par la politique de Tidal alors que d'autres plateformes le laissent passer sans distinction ?</p>
+<p>Aucun détail supplémentaire sur les modalités techniques d'application ni sur la date d'entrée en vigueur de la mesure ne figure dans le dépêche d'origine.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/">Hacker News (100 points et plus) — Tidal bans AI</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Présidentielle 2027 : Lisnard et le débat avec Édouard Philippe</title>
+      <link>https://sca64.github.io/news/articles/national-presidentielle-2027-lisnard-et-le-debat-avec-edouard.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:national-presidentielle-2027-lisnard-et-le-debat-avec-edouard</guid>
+      <pubDate>Tue, 24 Nov 2026 22:32:00 GMT</pubDate>
+      <description>Mardi, Édouard Philippe souhaite un débat télévisé avec David Lisnard, Le Monde .</description>
+      <content:encoded><![CDATA[<p>Mardi, Édouard Philippe souhaite un débat télévisé avec David Lisnard, <a href="https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/24/edouard-philippe-a-vote-pour-david-lisnard-a-la-presidence-de-l-amf-mais-fustige-sa-posture-dans-la-course-a-l-elysee_6814832_6205049.html">Le Monde</a>. Le candidat Horizons a rapproché le maire de Cannes de vouloir travailler avec la droite et la « droite extrême ». David Lisnard, candidat Nouvelle Energie, s’est engagé à continuer « à défendre les mairies » s’il était élu à l’Élysée.</p>
+<p>Le camp d’Édouard Philippe pointe de son côté un « flou » de David Lisnard face à « l’extrême droite », selon <a href="https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-le-camp-d-edouard-philippe-pointe-le-flou-de-david-lisnard-face-a-l-extreme-droite-20261124">Le Figaro</a>.</p>
+<p>Mardi, dans le cadre du 108e congrès des maires de France, David Lisnard et Philippe Laurent ont défendu leur projet devant 3 000 personnes, selon <a href="https://www.lefigaro.fr/elections/presidentielles/il-est-deja-elu-a-l-applaudimetre-dans-les-coulisses-du-match-entre-david-lisnard-et-philippe-laurent-pour-la-presidence-de-l-amf-20261124">Le Figaro</a>. Le résultat des urnes est attendu mercredi, avant 14h.</p>
+<p>Au Rassemblement national, la percée de David Lisnard inquiète. Marine Le Pen, Jordan Bardella et leurs proches ont sorti l’artillerie lourde contre le maire de Cannes, en dynamique dans les sondages, selon <a href="https://www.lefigaro.fr/elections/presidentielles/c-est-celui-qui-nous-fait-le-plus-peur-au-rassemblement-national-la-percee-de-david-lisnard-inquiete-20261124">Le Figaro</a>.</p>
+<p>Dans une interview au Parisien, Gabriel Attal, candidat Renaissance à la présidentielle, propose deux débats « thématiques » d’ici à Noël avec Édouard Philippe, Bruno Retailleau et David Lisnard, avant une primaire entre mi-janvier et mi-février, selon <a href="https://www.lefigaro.fr/elections/presidentielles/s-il-reste-contre-la-primaire-philippe-doit-proposer-une-autre-modalite-de-departage-attal-met-la-pression-sur-son-rival-fixant-noel-comme-echeance-20261124">Le Figaro</a>.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/24/edouard-philippe-a-vote-pour-david-lisnard-a-la-presidence-de-l-amf-mais-fustige-sa-posture-dans-la-course-a-l-elysee_6814832_6205049.html">Le Monde — Présidentielle 2027 : Edouard Philippe souhaite un débat télévisé avec David Lisnard, qu’il soupçonne de ne pas être « étanche » vis-à</a></li>
+<li><a href="https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-le-camp-d-edouard-philippe-pointe-le-flou-de-david-lisnard-face-a-l-extreme-droite-20261124">Le Figaro — Présidentielle 2027 : le camp d’Édouard Philippe pointe le « flou » de David Lisnard face à « l’extrême droite »</a></li>
+<li><a href="https://www.lefigaro.fr/elections/presidentielles/il-est-deja-elu-a-l-applaudimetre-dans-les-coulisses-du-match-entre-david-lisnard-et-philippe-laurent-pour-la-presidence-de-l-amf-20261124">Le Figaro — « Il est déjà élu à l’applaudimètre »: dans les coulisses du match entre David Lisnard et Philippe Laurent pour la présidence de l’AMF</a></li>
+<li><a href="https://www.lefigaro.fr/elections/presidentielles/c-est-celui-qui-nous-fait-le-plus-peur-au-rassemblement-national-la-percee-de-david-lisnard-inquiete-20261124">Le Figaro — « C’est celui qui nous fait le plus peur » : au Rassemblement national, la percée de David Lisnard inquiète</a></li>
+<li><a href="https://www.lefigaro.fr/elections/presidentielles/s-il-reste-contre-la-primaire-philippe-doit-proposer-une-autre-modalite-de-departage-attal-met-la-pression-sur-son-rival-fixant-noel-comme-echeance-20261124">Le Figaro — «S’il reste contre la primaire, Philippe doit proposer une autre modalité de départage» : Attal met la pression sur son rival, fixant Noël comme échéance</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>L'IA fait exploser les appels aux centres antipoison de Toulouse</title>
+      <link>https://sca64.github.io/news/articles/occitanie-l-ia-fait-exploser-les-appels-aux-centres-antipoison.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:occitanie-l-ia-fait-exploser-les-appels-aux-centres-antipoison</guid>
+      <pubDate>Tue, 24 Nov 2026 22:32:00 GMT</pubDate>
+      <description>Depuis l'arrivée de l'intelligence artificielle générative dans les usages du grand public, le centre antipoison de Toulouse constate une forte hausse des appels à son standard.</description>
+      <content:encoded><![CDATA[<p>Depuis l'arrivée de l'intelligence artificielle générative dans les usages du grand public, le centre antipoison de Toulouse constate une forte hausse des appels à son standard. Comme le rapporte <a href="https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/on-nous-appelle-pour-des-motifs-qui-ne-sont-ni-toxicologiques-ni-medicaux-quand-l-ia-fait-exploser-les-appels-aux-centres-antipoison-3455402.html">France 3 Occitanie</a>, une partie de ces sollicitations porte sur des questions du quotidien qui ne présentent, selon les équipes, « ni motif toxicologique ni motif médical ».</p>
+<p>Le phénomène inquiète ceux qui répondent au téléphone au quotidien. Le risque est celui d'un engorgement du standard, au détriment des appels qui relèvent, eux, d'une véritable urgence toxicologique. Un empoisonnement réel qui attend en ligne derrière une interrogation anodine posée à un assistant de discussion : c'est cette crainte qui se fait jour dans les propos recueillis par la rédaction.</p>
+<p>L'article ne détaille ni le volume exact des appels supplémentaires, ni le profil des personnes qui décrochent ce nouveau type de sollicitation. Il laisse entendre que l'IA générative, en répondant elle-même à des questions de santé parfois erratiques ou en orientant ses utilisateurs vers les centres spécialisés pour des cas qui ne le nécessitent pas, a modifié la typologie des appels reçus. Le centre antipoison, lui, reste en première ligne.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/on-nous-appelle-pour-des-motifs-qui-ne-sont-ni-toxicologiques-ni-medicaux-quand-l-ia-fait-exploser-les-appels-aux-centres-antipoison-3455402.html">France 3 Occitanie — "On nous appelle pour des motifs qui ne sont ni toxicologiques ni médicaux" : quand l’IA fait exploser les appels aux centres antipoison</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Decision de justice : Quad9 coupe son service DNS en France</title>
+      <link>https://sca64.github.io/news/articles/techno-decision-de-justice-quad9-coupe-son-service-dns-en.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:techno-decision-de-justice-quad9-coupe-son-service-dns-en</guid>
+      <pubDate>Tue, 24 Nov 2026 22:32:00 GMT</pubDate>
+      <description>Quad9, fournisseur suisse de résolveur DNS alternatif très utilisé pour filtrer les requêtes malveillantes, arrête définitivement son service en France à compter de ce 24 novembre 2026.</description>
+      <content:encoded><![CDATA[<p>Quad9, fournisseur suisse de résolveur DNS alternatif très utilisé pour filtrer les requêtes malveillantes, arrête définitivement son service en France à compter de ce 24 novembre 2026. Le retrait répond à une décision de justice, comme l'indiquent <a href="https://www.lesnumeriques.com/informatique/quad9-le-fournisseur-de-dns-quitte-la-france-suite-a-une-decision-de-justice-n268457.html">Les Numériques</a>.</p>
+<p>Le communiqué officiel, relayé par <a href="https://next.ink/brief-article/quad9-confirme-la-desactivation-de-son-service-en-france-aujourdhui/">Next</a>, est sans ambiguïté : « Toute requête adressée à l'une des adresses de service de Quad9 sera donc refusée, et aucune résolution DNS n'aboutira ». En clair, quiconque configure encore l'adresse <code>9.9.9.9</code> ou <code>149.112.112.112</code> dans sa carte réseau ou sa box ne verra plus aucune page s'afficher : la navigation se brisera dès le premier nom de domaine à résoudre, faute de réponse.</p>
+<p>La désactivation prend effet sur la base de l'adresse IP d'origine de la requête, ce qui signifie que les utilisateurs connectés depuis le territoire français seront exclus même s'ils ont configuré Quad9 manuellement. Il faudra donc migrer vers une autre solution pour retrouver un DNS fonctionnel.</p>
+<ul>
+<li>Passer au DNS par défaut de son FAI (Free, Orange, SFR, Bouygues), sans filtrage additionnel.</li>
+<li>Basculer vers un autre résolveur public alternatif encore accessible.</li>
+<li>Installer son propre serveur DNS avec un outil comme Unbound : un <a href="https://next.ink/260020/tuto-installer-facilement-son-propre-resolveur-dns-sur-raspberry-pi-vm-freebox-vps/">tuto Next</a> détaille la méthode sur Raspberry Pi, VM Freebox ou VPS, en quelques lignes de configuration.</li>
+</ul>
+<p>Le choix relève de la philosophie : dépendre d'un tiers ou reprendre la main. Une chose est sûre, laisser son résolveur pointer vers une adresse morte ne pardonne pas.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://next.ink/brief-article/quad9-confirme-la-desactivation-de-son-service-en-france-aujourdhui/">Next — ☕️ Quad9 confirme la désactivation de son service en France aujourd’hui</a></li>
+<li><a href="https://www.lesnumeriques.com/informatique/quad9-le-fournisseur-de-dns-quitte-la-france-suite-a-une-decision-de-justice-n268457.html">Les Numériques — Quad9 : le fournisseur de DNS quitte la France suite à une décision de justice</a></li>
+<li>[Next — [Tuto] Quad9 quitte la France, comment installer et utiliser son propre résolveur DNS](https://next.ink/260020/tuto-installer-facilement-son-propre-resolveur-dns-sur-raspberry-pi-vm-freebox-vps/)</li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Un bon petit soldat : le monde de l'entreprise selon Brizé</title>
+      <link>https://sca64.github.io/news/articles/culture-un-bon-petit-soldat-le-monde-de-l-entreprise-selon.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:culture-un-bon-petit-soldat-le-monde-de-l-entreprise-selon</guid>
+      <pubDate>Tue, 24 Nov 2026 20:04:00 GMT</pubDate>
+      <description>Au rayon des sorties cinématographiques de cette semaine, Un bon petit soldat de Stéphane Brizé est le film qui a reçu le prix du scénario à la Mostra de Venise , et que Les Inrocks présentent comme leur meilleur film du cinéaste.</description>
+      <content:encoded><![CDATA[<p>Au rayon des sorties cinématographiques de cette semaine, <em>Un bon petit soldat</em> de Stéphane Brizé est le film qui a reçu le <a href="https://www.lesinrocks.com/cinema/pourquoi-un-bon-petit-soldat-est-il-le-meilleur-film-de-stephane-brize-706377-24-11-2026/">prix du scénario à la Mostra de Venise</a>, et que Les Inrocks présentent comme leur meilleur film du cinéaste. Son pitch tient en une ligne : une responsable des ressources humaines tente de réconcilier le bien-être des salariés avec les objectifs de performance d'une entreprise.</p>
+<p>Ce monde-là, Brizé ne le quitte pas. De <em>La Loi du marché</em> à ce nouveau long métrage, il raconte le monde de l'entreprise, et son obsession — telle qu'il la formule dans un entretien au <a href="https://www.telerama.fr/cinema/le-realisateur-stephane-brize-je-viens-d-une-classe-sociale-ou-l-on-accepte-souvent-d-etre-domine-7034015.php">Télérama</a> — est d'explorer « comment le système libéral pervertit les êtres, jusqu'à ceux <em>de bonne volonté</em> ». Les Inrocks, de leur côté, résument l'enjeu par une question : « Mission impossible ? »</p>
+<p>À cette grille s'ajoute, dans le même entretien à Télérama, un aveu d'origine : « Je viens d'une classe sociale où l'on accepte souvent d'être dominé. » En quelques mots, le cinéaste dit quelque chose de ses films.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://www.lesinrocks.com/cinema/pourquoi-un-bon-petit-soldat-est-il-le-meilleur-film-de-stephane-brize-706377-24-11-2026/">Les Inrocks — Pourquoi “Un bon petit soldat” est</a></li>
+<li><a href="https://www.telerama.fr/cinema/le-realisateur-stephane-brize-je-viens-d-une-classe-sociale-ou-l-on-accepte-souvent-d-etre-domine-7034015.php">Télérama — Le réalisateur Stéphane Brizé : “Je viens d’une classe sociale où l’on accepte souvent d’être dominé”</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Les agents LLM travaillent pour leurs créateurs, pas pour vous</title>
+      <link>https://sca64.github.io/news/articles/dev-ia-les-agents-llm-travaillent-pour-leurs-createurs-pas.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:dev-ia-les-agents-llm-travaillent-pour-leurs-createurs-pas</guid>
+      <pubDate>Tue, 24 Nov 2026 20:02:00 GMT</pubDate>
+      <description>Michael Harley pose une question frontale dans un billet publié début novembre : les agents alimentés par des grands modèles de langage travaillent pour leurs maisons mères, pas pour l'utilisateur qui les emploie au quotidien.</description>
+      <content:encoded><![CDATA[<p>Michael Harley pose une question frontale dans <a href="https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/">un billet publié début novembre</a> : les agents alimentés par des grands modèles de langage travaillent pour leurs maisons mères, pas pour l'utilisateur qui les emploie au quotidien.</p>
+<p>Le titre est l'argument, sans nuance. Pas de « dans certains cas », pas de « potentiellement ». Harley affirme que le rapport de loyauté structurel penche vers l'entreprise qui a bâti l'outil, et non vers la personne qui l'interroge.</p>
+<p>Ce que le billet a déclenché en témoigne d'une frustration partagée : 754 points et 317 commentaires sur Hacker News, ce qui en fait l'une des discussions les plus suivies du jour sur l'agrégateur.</p>
+<p>L'observation n'est pas un incident technique. C'est une remarque sur la conception : un agent est un logiciel, avec un auteur, un objectif, une structure qui le finance. Le supposer neutre revient à ignorer cette origine. Harley ne fait que la nommer.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/">Hacker News (100 points et plus) — LLM agents work for their parent companies, not for you</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>266 kilos de cocaïne saisis par la PJ de Bayonne à la frontière</title>
+      <link>https://sca64.github.io/news/articles/pays-basque-266-kilos-de-cocaine-saisis-par-la-pj-de-bayonne-a-la.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:pays-basque-266-kilos-de-cocaine-saisis-par-la-pj-de-bayonne-a-la</guid>
+      <pubDate>Tue, 24 Nov 2026 20:02:00 GMT</pubDate>
+      <description>Les policiers antistup de la PJ de Bayonne ont saisi 266 kilos de cocaïne lors de deux opérations d'envergure contre des « Go Fast » à la frontière franco-espagnole , selon ICI Pays basque.</description>
+      <content:encoded><![CDATA[<p>Les policiers antistup de la PJ de Bayonne ont saisi 266 kilos de cocaïne lors de deux opérations d'envergure contre des « Go Fast » à la <a href="https://www.ici.fr/nouvelle-aquitaine/pyrenees-atlantiques-64/bayonne/info-ici-pays-basque-266-kilos-de-cocaine-saisis-par-la-pj-de-bayonne-lors-de-deux-operations-antidrogue-5809743?at_medium=lien_RSS&amp;amp;at_locale=41">frontière franco-espagnole</a>, selon ICI Pays basque.</p>
+<p>La première interception s'est déroulée le mardi 17 novembre dans les Pyrénées-Orientales, au péage du Boulou. Le lendemain, une seconde opération a été conduite au Pays Basque, au péage de Biriatou. Selon <a href="https://actu.fr/nouvelle-aquitaine/biriatou_64130/les-policiers-du-pays-basque-font-une-importante-decouverte-en-controlant-une-conductrice-au-peage-de-biriatou_65093416.html">Actu Pays basque</a>, une conductrice y a été arrêtée le 18 novembre en possession d'une « quantité d'envergure » de cocaïne — et cette interpellation n'était, selon la police, « que le début des découvertes ».</p>
+<p>En moins de vingt-quatre heures, la PJ de Bayonne a frappé à deux reprises à la frontière franco-espagnole, du péage du Boulou à celui de Biriatou, sur deux départements distincts.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://www.ici.fr/nouvelle-aquitaine/pyrenees-atlantiques-64/bayonne/info-ici-pays-basque-266-kilos-de-cocaine-saisis-par-la-pj-de-bayonne-lors-de-deux-operations-antidrogue-5809743?at_medium=lien_RSS&amp;amp;at_locale=41">ICI Pays Basque — INFO ICI PAYS BASQUE - 266 kilos de cocaïne saisis par la PJ de Bayonne lors de deux opérations antidrogue</a></li>
+<li><a href="https://actu.fr/nouvelle-aquitaine/biriatou_64130/les-policiers-du-pays-basque-font-une-importante-decouverte-en-controlant-une-conductrice-au-peage-de-biriatou_65093416.html">Actu Pays Basque — Les policiers du Pays basque font une importante découverte en contrôlant une conductrice au péage de Biriatou</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Claude Ship : Anthropic confie à trois agents la validation des pull requests</title>
+      <link>https://sca64.github.io/news/articles/techno-claude-ship-anthropic-confie-a-trois-agents-la.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:techno-claude-ship-anthropic-confie-a-trois-agents-la</guid>
+      <pubDate>Tue, 24 Nov 2026 20:02:00 GMT</pubDate>
+      <description>Jusqu'à présent, un développeur qui faisait appel à Claude pour générer du code devait garder la main jusqu'au bout : le modèle produisait les lignes, mais un humain avait le dernier mot avant la mise en production.</description>
+      <content:encoded><![CDATA[<p>Jusqu'à présent, un développeur qui faisait appel à Claude pour générer du code devait garder la main jusqu'au bout : le modèle produisait les lignes, mais un humain avait le dernier mot avant la mise en production. <a href="https://www.lesnumeriques.com/intelligence-artificielle/anthropic-permet-desormais-a-claude-de-valider-son-propre-code-les-developpeurs-vont-ils-devenir-inutiles-n268405.html">Anthropic veut désormais lever ce verrou</a> avec Claude Ship, présenté ce lundi 23 novembre.</p>
+<p>Le principe est celui d'une chaîne de trois agents qui se relaient après l'ouverture d'une demande de fusion sur GitHub. Le premier inspecte les modifications, le second répare ce qui coince, le troisième décide — si l'équipe le souhaite — de donner lui-même le feu vert final. En interne, Anthropic dit avoir doublé le nombre de modifications intégrées tout en réduisant la casse.</p>
+<p>Next, qui couvre également l'annonce, précise que la mission assignée à Ship est de « relire le code, corriger les problèmes et décider si la demande peut être fusionnée », <a href="https://next.ink/brief-article/avec-claude-ship-anthropic-sattaque-a-la-correction-automatique-des-pull-requests/">un périmètre qui englobe tout ce qui se passe après l'ouverture d'une pull request</a>.</p>
+<p>L'outil s'inscrit dans la flotte de services Claude déjà déployés par l'entreprise. Le fait que la décision finale de fusion puisse être déléguée à un agent, plutôt que systématiquement conservée par un développeur, constitue le point de bascule : le dernier verrou humain devient optionnel, dépendant du réglage choisi par l'équipe.</p>
+<p>Anthropic ne détaille pas dans ces dépêches les tarifs ni les conditions d'accès à Ship, ni les garde-fous prévus pour éviter qu'un agent valide une modification défaillante en l'absence de revue humaine.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://www.lesnumeriques.com/intelligence-artificielle/anthropic-permet-desormais-a-claude-de-valider-son-propre-code-les-developpeurs-vont-ils-devenir-inutiles-n268405.html">Les Numériques — Anthropic permet désormais à Claude de valider son propre code : les développeurs vont</a></li>
+<li><a href="https://next.ink/brief-article/avec-claude-ship-anthropic-sattaque-a-la-correction-automatique-des-pull-requests/">Next — ☕️ Avec Claude Ship, Anthropic s’attaque à la correction automatique des pull requests</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Crise du logement : le Parlement adopte un projet de loi face à une pénurie historique</title>
+      <link>https://sca64.github.io/news/articles/national-crise-du-logement-le-parlement-adopte-un-projet-de-loi.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:national-crise-du-logement-le-parlement-adopte-un-projet-de-loi</guid>
+      <pubDate>Tue, 24 Nov 2026 20:00:00 GMT</pubDate>
+      <description>La crise du logement frappe tous les profils, cadres comme étudiants, jeunes actifs comme foyers modestes.</description>
+      <content:encoded><![CDATA[<p>La crise du logement frappe tous les profils, cadres comme étudiants, jeunes actifs comme foyers modestes. Le constat dressé par la presse économique est sans appel : effondrement de la construction de logements neufs, marché de l'ancien en recul, baisse drastique des offres de location — un niveau de tension que la France n'a plus connu depuis la Seconde Guerre mondiale. <a href="https://www.lefigaro.fr/conjoncture/10-des-salaries-ont-refuse-un-emploi-faute-de-pouvoir-se-loger-les-francais-pieges-par-la-crise-du-logement-20261124">Du jamais vu dans l'histoire récente</a>.</p>
+<p>Les conséquences dépassent le seul confort du quotidien. Selon les chiffres rapportés par Le Figaro, 10 % des salariés ont refusé un emploi faute de pouvoir se loger. Et pour décrocher une location, certains candidats redoublent d'ingéniosité, <a href="https://www.lefigaro.fr/social/mon-mari-a-fait-un-faux-contrat-de-travail-ces-francais-prets-a-tout-pour-decrocher-un-logement-a-louer-20261124">quitte à recourir à des pratiques frauduleuses</a> : faux contrats de travail, dossiers bidonnés. « Mon mari a fait un faux contrat de travail », témoigne une locataire dans les colonnes du journal.</p>
+<p>Face à cette situation, l'Assemblée nationale a adopté en première lecture le projet de loi logement. <a href="https://www.lefigaro.fr/conjoncture/l-assemblee-nationale-adopte-en-premiere-lecture-le-projet-de-loi-logement-20261124">Le texte devra désormais passer par une commission mixte paritaire</a> entre députés et sénateurs ; si un accord y est trouvé, l'Assemblée se prononcera définitivement le 15 décembre.</p>
+<p>L'éditorialiste Gaëtan de Capèle, pour sa part, estime que « la responsabilité politique dans cette catastrophe est écrasante », au-delà d'une conjoncture économique peu porteuse.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://www.lefigaro.fr/conjoncture/10-des-salaries-ont-refuse-un-emploi-faute-de-pouvoir-se-loger-les-francais-pieges-par-la-crise-du-logement-20261124">Le Figaro — «10% des salariés ont refusé un emploi faute de pouvoir se loger» : les Français piégés par la crise du logement</a></li>
+<li><a href="https://www.lefigaro.fr/social/mon-mari-a-fait-un-faux-contrat-de-travail-ces-francais-prets-a-tout-pour-decrocher-un-logement-a-louer-20261124">Le Figaro — « Mon mari a fait un faux contrat de travail » : ces Français prêts à tout pour décrocher un logement à louer</a></li>
+<li><a href="https://www.lefigaro.fr/conjoncture/l-assemblee-nationale-adopte-en-premiere-lecture-le-projet-de-loi-logement-20261124">Le Figaro — L'Assemblée nationale adopte en première lecture le projet de loi logement</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Shirudo, un runtime Linux annoncé par OpenAI et Cisco</title>
+      <link>https://sca64.github.io/news/articles/dev-ia-shirudo-un-runtime-linux-annonce-par-openai-et-cisco.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:dev-ia-shirudo-un-runtime-linux-annonce-par-openai-et-cisco</guid>
+      <pubDate>Tue, 24 Nov 2026 08:03:00 GMT</pubDate>
+      <description>OpenAI et Cisco introduisent Shirudo , présenté comme un runtime open-source pour Linux.</description>
+      <content:encoded><![CDATA[<p>OpenAI et Cisco introduisent <a href="https://openai.com/index/introducing-shirudo">Shirudo</a>, présenté comme un runtime open-source pour Linux.</p>
+<p><em>OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.</em></p>
+<p>Ce message associe deux noms, OpenAI et Cisco, autour d'un même logiciel, Shirudo. Il indique que ce logiciel est un runtime. Il indique que ce runtime est open-source. Il indique qu'il vise Linux. Il indique enfin qu'il aide les équipes à protéger des systèmes qui tournent, pendant le déploiement de correctifs.</p>
+<p>La promesse annoncée peut être séparée en trois éléments: un runtime, Linux, et une protection des systèmes en cours d'exécution lors du déploiement de correctifs. OpenAI et Cisco présentent Shirudo dans ce cadre.</p>
+<p>Le texte associe le nom Shirudo à une fonction précise: la protection des systèmes en cours d'exécution. Il associe aussi ce nom à deux conditions: un runtime et une cible Linux. Il associe enfin ce nom à une opération: le déploiement de correctifs.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://openai.com/index/introducing-shirudo">OpenAI News — OpenAI and Cisco introduce Shirudo</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>À Mende, l'ex-Petit Poucet veut revivre sa folle épopée</title>
+      <link>https://sca64.github.io/news/articles/occitanie-a-mende-l-ex-petit-poucet-veut-revivre-sa-folle-epopee.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:occitanie-a-mende-l-ex-petit-poucet-veut-revivre-sa-folle-epopee</guid>
+      <pubDate>Tue, 24 Nov 2026 08:02:00 GMT</pubDate>
+      <description>Le 28 novembre 2026, Mende (Lozère) affrontera Montpellier au 8ᵉ tour de la Coupe de France, et le club lozérien — que l'on appelait autrefois le « Petit Poucet » de la compétition — rêve de « revivre la folle épopée de 2012-2013 », écrit Actu Occitanie .</description>
+      <content:encoded><![CDATA[<p>Le 28 novembre 2026, <a href="https://actu.fr/occitanie/mende_48095/les-billets-sont-en-vente-l-ex-petit-poucet-mende-pret-a-revivre-la-folle-epopee-de-2012-2013-en-coupe-de-france_65087752.html">Mende</a> (Lozère) affrontera Montpellier au 8ᵉ tour de la Coupe de France, et le club lozérien — que l'on appelait autrefois le « Petit Poucet » de la compétition — rêve de « revivre la folle épopée de 2012-2013 », écrit <a href="https://actu.fr/occitanie/mende_48095/les-billets-sont-en-vente-l-ex-petit-poucet-mende-pret-a-revivre-la-folle-epopee-de-2012-2013-en-coupe-de-france_65087752.html">Actu Occitanie</a>. Les billets sont déjà en vente.</p>
+<p>Ce mot d'« ex », dans le titre du jour, dit l'essentiel : Mende n'est plus le Petit Poucet de la Coupe de France. Mais ce 8ᵉ tour ramène une géométrie que la ville connaît par cœur — un club modeste de Lozère contre Montpellier — et tout ce que cela suppose en termes de déséquilibre et d'attente. C'est, à s'y méprendre, la même affiche symbolique qui avait nourri la « folle épopée » de 2012-2013, ce récit que Mende n'a jamais tout à fait tourné, puisqu'il s'en sert aujourd'hui pour vendre des billets.</p>
+<p>Le 28 novembre approche. Il ne reste qu'à espérer que le tableau se remplisse du souvenir.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://actu.fr/occitanie/mende_48095/les-billets-sont-en-vente-l-ex-petit-poucet-mende-pret-a-revivre-la-folle-epopee-de-2012-2013-en-coupe-de-france_65087752.html">Actu Occitanie — Les billets sont en vente : l'ex-Petit Poucet Mende prêt à revivre la folle épopée de 2012</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>SpaceX gagne plus en louant ses GPU à Anthropic qu'avec Grok</title>
+      <link>https://sca64.github.io/news/articles/techno-spacex-gagne-plus-en-louant-ses-gpu-a-anthropic-qu.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:techno-spacex-gagne-plus-en-louant-ses-gpu-a-anthropic-qu</guid>
+      <pubDate>Tue, 24 Nov 2026 08:02:00 GMT</pubDate>
+      <description>L'histoire avait quelque chose de cocasse, elle a fini par tourner au constat.</description>
+      <content:encoded><![CDATA[<p>L'histoire avait quelque chose de cocasse, elle a fini par tourner au constat. <a href="https://next.ink/269521/spacex-gagne-plus-en-louant-ses-gpu-a-anthropic-quavec-grok-incapable-de-rivaliser/">La filiale de SpaceX spécialisée dans l'IA générative</a> gagne désormais davantage d'argent en louant ses cartes graphiques à Anthropic qu'en les utilisant pour alimenter ses propres services, dont Grok.</p>
+<p>Le parcours de l'entité donne le vertige : née sous le nom de xAI, elle est devenue SpaceXAI, puis SpaceXSI. Derrière les changements d'étiquette, un même produit — Grok — dont les dépêches constatent qu'il reste « incapable de rivaliser » avec les modèles d'OpenAI et d'Anthropic. La formule, reprise dans le titre de la source, tranche avec les ambitions initiales.</p>
+<p>Le paradoxe économique est simple à énoncer. Quand un modèle de langage ne parvient pas à se distinguer sur le marché des assistants et des API, la valeur des GPU qui l'entraînent ne disparaît pas pour autant : elle se déplace. Plutôt que de brûler les cycles de calcul pour un Grok qui ne décroche pas les contrats, la société les vend à celui qui les décroche, en l'occurrence Anthropic. Elon Musk, rappelé dans la dépêche, se retrouve ainsi dans la position peu enviable de financer la concurrence avec sa propre infrastructure.</p>
+<p>Cela dit, les informations fournies restent limitées sur ce point. La dépêche ne précise ni les volumes de GPU concernés, ni la part exacte de chiffre d'affaires que représentent les locations par rapport aux revenus propres de Grok, ni les modalités du contrat avec Anthropic. Le constat est là, net : la location rapporte plus. Le reste relève encore du flou.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://next.ink/269521/spacex-gagne-plus-en-louant-ses-gpu-a-anthropic-quavec-grok-incapable-de-rivaliser/">Next — SpaceX gagne plus en louant ses GPU à Anthropic qu’avec Grok, « incapable de rivaliser »</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Déraillement d'un TER en Normandie : quatre interpellations près de Rouen</title>
+      <link>https://sca64.github.io/news/articles/national-deraillement-d-un-ter-en-normandie-quatre.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:national-deraillement-d-un-ter-en-normandie-quatre</guid>
+      <pubDate>Tue, 24 Nov 2026 08:00:00 GMT</pubDate>
+      <description>Quatre hommes ont été interpellés lundi matin près de Rouen dans le cadre de l'enquête sur le déraillement d'un TER survenu le 11 septembre 2026 .</description>
+      <content:encoded><![CDATA[<p>Quatre hommes ont été interpellés lundi matin près de Rouen dans le cadre de l'enquête sur le <a href="https://www.lemonde.fr/societe/article/2026/11/24/deraillement-d-un-ter-en-normandie-quatre-hommes-interpelles-pour-acte-de-malveillance-presume_6814711_3224.html">déraillement d'un TER survenu le 11 septembre 2026</a>. L'accident, qui avait fait 44 blessés, est désormais envisagé sous l'angle d'un acte de malveillance.</p>
+<p>Les personnes arrêtées sont un père de 45 ans, ses deux fils jumeaux âgés de 22 ans, et un quatrième homme. Leur garde à vue peut se prolonger jusqu'à quatre-vingt-seize heures.</p>
+<p>Un élément matériel avait orienté les investigations : un morceau de rail avait été découvert sur les voies après le déraillement. C'est cette découverte qui a vraisemblablement conduit les enquêteurs à privilégier la piste d'une action délibérée, plutôt que celle d'une défaillance mécanique ou humaine.</p>
+<p>Le dossier reste à ce stade marqué par la prudence judiciaire — les interpellations portent sur une suspicion, non sur une mise en examen — mais la qualification retenue et le nombre de personnes concernées témoignent de l'ampleur que prend la piste criminelle, plusieurs semaines après les faits.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://www.lemonde.fr/societe/article/2026/11/24/deraillement-d-un-ter-en-normandie-quatre-hommes-interpelles-pour-acte-de-malveillance-presume_6814711_3224.html">Le Monde — Déraillement d’un TER en Normandie : quatre hommes interpellés pour acte de malveillance présumé</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>NariQ : un Qwen3.8-27B compressé à 3 bits sans perte notable</title>
+      <link>https://sca64.github.io/news/articles/dev-ia-nariq-un-qwen3-8-27b-compresse-a-3-bits-sans-perte.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:dev-ia-nariq-un-qwen3-8-27b-compresse-a-3-bits-sans-perte</guid>
+      <pubDate>Tue, 24 Nov 2026 05:48:00 GMT</pubDate>
+      <description>Nari Labs a publié une version quantisée à 3 bits ou moins du modèle Qwen3.8-27B, et les chiffres publiés donnent le vertige : la qualité reste proche du BF16 sur des tâches agentiques longues, du raisonnement mathématique et de la compréhension d'images multilingue.</description>
+      <content:encoded><![CDATA[<p>Nari Labs a publié une version quantisée à 3 bits ou moins du modèle Qwen3.8-27B, et les chiffres publiés donnent le vertige : la qualité reste proche du BF16 sur des tâches agentiques longues, du raisonnement mathématique et de la compréhension d'images multilingue.</p>
+<p>L'équipe affirme qu'il s'agit, à sa connaissance, de la première quantisation à 3 bits ou moins qui conserve un niveau BF16 sur des tâches agentiques de type <em>long-horizon</em>. Le fichier est disponible sur <a href="https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF">Hugging Face</a> au format GGUF, donc exploitable dans les runtimes locaux classiques.</p>
+<p>Les benchmarks publiés dans la dépêche (BF16 / 3-bit / 2.5-bit / 2-bit) racontent une histoire claire :</p>
+<ul>
+<li><strong>DeepSWE</strong> : 39.8 / 41.0 / 41.9 / 28.6</li>
+<li><strong>Terminal-Bench 2.1</strong> : 62.6 / 63.8 / 60.2 / (valeur tronquée dans la dépêche)</li>
+</ul>
+<p>À 3 bits et même à 2,5 bits, les scores égalent ou dépassent le BF16 d'origine. La chute n'apparaît qu'en dessous de 2 bits, où DeepSWE plonge à 28.6. Autrement dit, la compression à 3 bits ne sacrifice presque rien pour un modèle de 27 milliards de paramètres.</p>
+<p>Le reste des benchmarks (raisonnement multilingue, compréhension d'images) est mentionné sans chiffres détaillés dans la dépêche, ce qui laisse au lecteur le soin de consulter le dépôt pour la vue complète.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF">Hacker News (100 points et plus) — NariQ: BF16-level Qwen3.8</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Hypothèse de Riemann : un mathématicien d'Anthropic soumet une preuve en 17 millions de li</title>
+      <link>https://sca64.github.io/news/articles/techno-hypothese-de-riemann-un-mathematicien-d-anthropic.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:techno-hypothese-de-riemann-un-mathematicien-d-anthropic</guid>
+      <pubDate>Tue, 24 Nov 2026 05:48:00 GMT</pubDate>
+      <description>L'hypothèse de Riemann, l'une des conjectures les plus classiques des mathématiques, fait l'objet de deux propositions de preuve publiées simultanément par deux chercheurs aux méthodes radicalement opposées.</description>
+      <content:encoded><![CDATA[<p>L'hypothèse de Riemann, l'une des conjectures les plus classiques des mathématiques, fait l'objet de deux propositions de preuve publiées simultanément par deux chercheurs aux méthodes radicalement opposées.</p>
+<p>D'un côté, Alessandro Maria Masullo a mis en ligne un manuscrit de 940 pages exposant sa démonstration, sans recourir à l'IA. De l'autre, Levent Alpöge, mathématicien chez Anthropic, a soumis un code de 17 millions de lignes censé valider la même conjecture.</p>
+<p><a href="https://next.ink/269118/hypothese-de-riemann-une-preuve-generee-par-ia-est-elle-utile-aux-mathematiciens/">Deux mathématiciens ont publié des propositions de preuve d'une conjecture des plus classiques des mathématiques</a>, et la question que la publication de ces travaux soulève immédiatement est celle de l'utilité, pour la communauté mathématique, d'une preuve générée par une intelligence artificielle.</p>
+<p>Le contraste des formats est saisissant : neuf cent quarante pages rédigées contre dix-sept millions de lignes de code. Deux manières très différentes d'écrire la vérité mathématique — l'une inscrite dans la tradition de la démonstration humaine, l'autre dans le langage d'une machine. L'article de Next pose frontalement la question de leur réception : à quoi sert une preuve que personne ne peut vérifier à la main ?</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://next.ink/269118/hypothese-de-riemann-une-preuve-generee-par-ia-est-elle-utile-aux-mathematiciens/">Next — Hypothèse de Riemann : une preuve générée par IA est</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Retraits records sur le Livret A depuis janvier</title>
+      <link>https://sca64.github.io/news/articles/national-retraits-records-sur-le-livret-a-depuis-janvier.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:national-retraits-records-sur-le-livret-a-depuis-janvier</guid>
+      <pubDate>Tue, 24 Nov 2026 05:45:00 GMT</pubDate>
+      <description>Les épargnants ont retiré près de 10 milliards d'euros de leurs Livret A depuis janvier, un mouvement qui constitue un record depuis dix ans .</description>
+      <content:encoded><![CDATA[<p>Les épargnants ont retiré près de 10 milliards d'euros de leurs Livret A depuis janvier, un mouvement qui constitue <a href="https://www.lemonde.fr/argent/article/2026/11/24/les-epargnants-ont-retire-pres-de-10-milliards-d-euros-de-leurs-livret-a-depuis-janvier-un-record-depuis-dix-ans_6814708_1657007.html">un record depuis dix ans</a>.</p>
+<p>Le chiffre détaillé par <a href="https://www.lefigaro.fr/conjoncture/inflation-pouvoir-d-achat-en-berne-le-livret-a-connait-sa-pire-annee-depuis-2008-20261124">Le Figaro</a> donne à voir l'ampleur du solde négatif :</p>
+<ul>
+<li>depuis janvier, les Français ont retiré 9,54 milliards d'euros de plus qu'ils n'en ont déposé sur ce placement ;</li>
+<li>le journal rattache ce recul à l'inflation et au pouvoir d'achat en berne, le rendement du livret ne suffisant plus à compenser la hausse des prix ;</li>
+<li>le titre du Figaro parle, pour 2026, de la « pire année depuis 2008 » pour le produit d'épargne.</li>
+</ul>
+<p>Côté réglementation, rien n'est encore arbitré : les discussions sur la hausse du plafond, voulue par le gouvernement, sont toujours en cours, indique Le Monde. Quant à la rémunération, elle pourrait connaître un coup d'accélérateur au début de l'année prochaine, le taux d'intérêt passant de 1,7 % actuellement à 2,8 % en février.</p>
+<p>De quoi donner aux détenteurs de livret une raison supplémentaire d'attendre avant de vider leur compte ? Les deux dépêches, elles, se contentent de constater les flux de l'année écoulée.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://www.lemonde.fr/argent/article/2026/11/24/les-epargnants-ont-retire-pres-de-10-milliards-d-euros-de-leurs-livret-a-depuis-janvier-un-record-depuis-dix-ans_6814708_1657007.html">Le Monde — Les épargnants ont retiré près de 10 milliards d’euros de leurs Livret A depuis janvier, un record depuis dix ans</a></li>
+<li><a href="https://www.lefigaro.fr/conjoncture/inflation-pouvoir-d-achat-en-berne-le-livret-a-connait-sa-pire-annee-depuis-2008-20261124">Le Figaro — Inflation, pouvoir d’achat en berne… le Livret A connaît sa pire année depuis 2008</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Extension du bustram A dans la métropole de Montpellier</title>
+      <link>https://sca64.github.io/news/articles/occitanie-extension-du-bustram-a-dans-la-metropole-de-montpellier.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:occitanie-extension-du-bustram-a-dans-la-metropole-de-montpellier</guid>
+      <pubDate>Tue, 24 Nov 2026 05:45:00 GMT</pubDate>
+      <description>La ligne A du bustram va s'étendre plus au nord dans la métropole de Montpellier.</description>
+      <content:encoded><![CDATA[<p>La ligne A du bustram va s'étendre plus au nord dans la métropole de Montpellier. Le prolongement reliera Castelnau-le-Lez à Castries, en passant par Le Crès et Vendargues, selon les détails du projet dévoilés par <a href="https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/carte-extension-du-bustram-a-dans-la-metropole-de-montpellier-trace-calendrier-travaux-nouvelles-stations-et-mise-en-service-en-2029-les-details-du-projet-entre-castelnau-le-lez-et-castries-3454724.html">France 3 Occitanie</a>.</p>
+<p>Les travaux de prolongement débuteront mi-janvier 2027. La mise en service est prévue courant 2029. Le tracé, le calendrier détaillé des travaux, les nouvelles stations et la mise en service ont été présentés dans leur ensemble.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/carte-extension-du-bustram-a-dans-la-metropole-de-montpellier-trace-calendrier-travaux-nouvelles-stations-et-mise-en-service-en-2029-les-details-du-projet-entre-castelnau-le-lez-et-castries-3454724.html">France 3 Occitanie — CARTE. Extension du bustram A dans la métropole de Montpellier : tracé, calendrier, travaux, nouvelles stations et mise en service en 2029... les détails du projet entre Castelnau-le</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Agenda cinéma à Paris du 23 au 29 novembre</title>
+      <link>https://sca64.github.io/news/articles/culture-agenda-cinema-a-paris-du-23-au-29-novembre.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:culture-agenda-cinema-a-paris-du-23-au-29-novembre</guid>
+      <pubDate>Mon, 23 Nov 2026 22:33:00 GMT</pubDate>
+      <description>La semaine du 23 au 29 novembre à Paris s’annonce chargée pour les cinéphiles.</description>
+      <content:encoded><![CDATA[<p>La semaine du 23 au 29 novembre à Paris s’annonce chargée pour les cinéphiles. Un <a href="https://www.telerama.fr/cinema/l-agenda-du-cinephile-neuf-evenements-a-ne-pas-rater-a-paris-la-semaine-du-23-novembre-7033995.php">agenda</a> propose une sélection de neuf rendez-vous, avec des expériences très différentes.</p>
+<p>D’abord, revoir l’hallucinant <em>eXistenZ</em> de Cronenberg, une occasion de replonger dans un film dont le titre suffit à évoquer un univers singulier. Ensuite, fêter les 80 ans de <em>La Belle et la Bête</em> avec un orchestre symphonique, un format qui promet de transformer la séance en événement.</p>
+<p>L’agenda ne se limite pas aux salles traditionnelles : il invite aussi à <em>rider</em> au Paris Surf &amp; Skateboard Film Festival, preuve que le cinéma peut se vivre dans des formats et des atmosphères décalés.</p>
+<p>Ces trois exemples donnent le ton d’une semaine pensée comme un parcours, entre séance, fête et festival thématique. Les autres rendez-vous restent signalés dans la sélection, qui offre une manière simple d’organiser ses soirées à Paris, du 23 au 29 novembre.</p>
+<p>Les dates, du 23 au 29 novembre, encadrent cette sélection de rencontres cinématographiques à Paris.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://www.telerama.fr/cinema/l-agenda-du-cinephile-neuf-evenements-a-ne-pas-rater-a-paris-la-semaine-du-23-novembre-7033995.php">Télérama — L’agenda du cinéphile : neuf événements à ne pas rater à Paris la semaine du 23 novembre</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>En Corée du Sud, une caméra miniature et une IA trahissent un tricheur</title>
+      <link>https://sca64.github.io/news/articles/techno-en-coree-du-sud-une-camera-miniature-et-une-ia.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:techno-en-coree-du-sud-une-camera-miniature-et-une-ia</guid>
+      <pubDate>Mon, 23 Nov 2026 22:31:00 GMT</pubDate>
+      <description>En Corée du Sud, Han Won-seok a terminé premier d'un examen national extrêmement difficile avec 159 bonnes réponses sur 160 .</description>
+      <content:encoded><![CDATA[<p>En Corée du Sud, Han Won-seok a terminé premier d'un <a href="https://www.lesnumeriques.com/intelligence-artificielle/il-termine-premier-d-un-examen-national-avec-159-bonnes-reponses-sur-160-puis-avoue-avoir-photographie-les-questions-avec-une-camera-miniature-pour-les-envoyer-a-une-ia-301-n267791.html">examen national extrêmement difficile avec 159 bonnes réponses sur 160</a>. Un score quasi parfait, qui aurait dû rester gravé dans les annales académiques. Il restera surtout dans les annales judiciaires.</p>
+<p>L'homme de 34 ans a fini par avouer la méthode : une caméra miniature dissimulée sur lui lui permettait de photographier les questions de l'épreuve, puis de les transmettre à une intelligence artificielle qui lui fournissait les réponses. Le dispositif, aussi simple que redoutable, a tenu jusqu'à ce qu'il confesse lui-même la fraude.</p>
+<p>Les autorités sud-coréennes ont réagi dans l'urgence en renforçant les contrôles de l'examen d'entrée à l'université. Ce concours, dont dépend une bonne part de l'orientation sociale dans le pays, est l'un des plus scrutés et des plus compétitifs au monde. Le fait qu'un seul individu ait pu obtenir un score si proche de la perfection sans éveiller immédiatement les soupçons pose une question qui dépasse le cas individuel : à quoi ressemble l'intégrité d'un examen quand la réponse arrive par un canal invisible ?</p>
+<p>L'affaire illustre une tension que les systèmes d'évaluation n'ont pas encore intégrée. Les IA génératives, gratuites et accessibles depuis un téléphone, transforment chaque épreuve en une course à l'armement technologique entre surveillants et candidats. Une caméra miniature ne coûte presque rien ; un système de détection, lui, se chiffre en millions. Les institutions peuvent durcir les contrôles — c'est ce qu'elles ont fait — mais l'écart entre le coût d'une triche et le coût d'une prévention se creuse à mesure que les modèles s'améliorent.</p>
+<p>Han Won-seok, lui, a perdu son titre. Les 159 bonnes réponses sur 160 restent accrochées à son nom dans la mémoire collective, désormais précédées d'un astérisque moral que personne ne peut effacer.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://www.lesnumeriques.com/intelligence-artificielle/il-termine-premier-d-un-examen-national-avec-159-bonnes-reponses-sur-160-puis-avoue-avoir-photographie-les-questions-avec-une-camera-miniature-pour-les-envoyer-a-une-ia-301-n267791.html">Les Numériques — Il termine premier d’un examen national avec 159 bonnes réponses sur 160, puis avoue avoir photographié les questions avec une caméra miniature pour les envoyer à une IA</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Grand Paris Express : la ligne 18 de plus en plus compromise</title>
+      <link>https://sca64.github.io/news/articles/national-grand-paris-express-la-ligne-18-de-plus-en-plus.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:national-grand-paris-express-la-ligne-18-de-plus-en-plus</guid>
+      <pubDate>Mon, 23 Nov 2026 22:30:00 GMT</pubDate>
+      <description>L'ouverture de la nouvelle ligne 18 du métro du Grand Paris Express apparaît aujourd'hui plus compromise que jamais .</description>
+      <content:encoded><![CDATA[<p>L'ouverture de la nouvelle ligne 18 du métro du Grand Paris Express apparaît aujourd'hui <a href="https://www.lemonde.fr/economie/article/2026/11/23/grand-paris-express-l-ouverture-de-la-nouvelle-ligne-18-du-metro-plus-compromise-que-jamais_6814446_3234.html">plus compromise que jamais</a>.</p>
+<p>Face à la situation, Valérie Pécresse, présidente de la région Île-de-France, a convoqué une réunion d'urgence avec les différents acteurs concernés par le projet.</p>
+<p>Au cœur du problème : le logiciel d'automatisation conçu par Alstom. La présidente de région a enjoint le constructeur de trouver « des solutions pour fiabiliser son logiciel ». Une formulation qui laisse peu de place au doute sur la gravité des dysfonctionnements constatés dans le système censé piloter sans conducteur les rames de la future ligne.</p>
+<p>La ligne 18 est l'un des tronçons emblématiques du Grand Paris Express, ce vaste réseau de transport automatique en construction autour de la capitale. Le fait que la présidence de la région convoque une réunion d'urgence et adresse une injonction aussi directe à Alstom témoigne de la tension qui entoure désormais le calendrier d'ouverture.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://www.lemonde.fr/economie/article/2026/11/23/grand-paris-express-l-ouverture-de-la-nouvelle-ligne-18-du-metro-plus-compromise-que-jamais_6814446_3234.html">Le Monde — Grand Paris Express : l’ouverture de la nouvelle ligne 18 du métro plus compromise que jamais</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Luke Jacobson, troisième ligne All Black, signe trois ans à Bayonne</title>
+      <link>https://sca64.github.io/news/articles/pays-basque-luke-jacobson-troisieme-ligne-all-black-signe-trois.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:pays-basque-luke-jacobson-troisieme-ligne-all-black-signe-trois</guid>
+      <pubDate>Mon, 23 Nov 2026 22:30:00 GMT</pubDate>
+      <description>L'Aviron Bayonnais a officialisé ce lundi 23 novembre le recrutement de Luke Jacobson, international néo-zélandais évoluant au poste de troisième ligne, selon ICI Pays Basque .</description>
+      <content:encoded><![CDATA[<p>L'Aviron Bayonnais a officialisé ce lundi 23 novembre le recrutement de Luke Jacobson, international néo-zélandais évoluant au poste de troisième ligne, selon <a href="https://www.ici.fr/nouvelle-aquitaine/pyrenees-atlantiques-64/bayonne/un-3e-ligne-all-black-signe-a-l-aviron-bayonnais-pour-3-ans-9395628?at_medium=lien_RSS&amp;amp;at_locale=41">ICI Pays Basque</a>. Le joueur s'engage pour trois saisons avec le club de la côte basque.</p>
+<p>Son arrivée effective n'est pas pour tout de suite : Jacobson rejoindra l'effectif bayonnais à l'issue de la Coupe du monde de rugby 2027 en Australie, comme le précise la dépêche. Le club mise donc sur un renfort de très haut niveau dont l'intégration se fera dans un horizon encore lointain, mais dont l'annonce immédiate envoie un signal clair dans le paysage du Top 14.</p>
+<p>Ce recrutement intervient dans une semaine déjà chargée pour le rugby basque : Killian Geraci, deuxième ligne de l'Aviron Bayonnais, et Boris Bouhraoua, manager du Biarritz Olympique, étaient les invités de <em>100% Rugby</em> sur ICI Pays Basque le même lundi, avant respectivement les matchs contre Castres et à Brive.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://www.ici.fr/nouvelle-aquitaine/pyrenees-atlantiques-64/bayonne/un-3e-ligne-all-black-signe-a-l-aviron-bayonnais-pour-3-ans-9395628?at_medium=lien_RSS&amp;amp;at_locale=41">ICI Pays Basque — Un troisième ligne All Black signe à l'Aviron Bayonnais pour trois ans</a></li>
+<li><a href="https://www.ici.fr/emissions/100-rugby-au-pays-basque/kilian-geraci-aviron-bayonnais-et-boris-bouhraoua-biarritz-olympique-avant-les-matchs-contre-castres-et-a-brive-5424587?at_medium=lien_RSS&amp;amp;at_locale=41">ICI Pays Basque — Killian Geraci (Aviron Bayonnais) et Boris Bouhraoua (Biarritz Olympique) avant les matchs contre Castres et à Brive</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>After the Fireworks, single fantôme de Melbourne</title>
+      <link>https://sca64.github.io/news/articles/culture-after-the-fireworks-single-fantome-de-melbourne.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:culture-after-the-fireworks-single-fantome-de-melbourne</guid>
+      <pubDate>Mon, 23 Nov 2026 20:03:00 GMT</pubDate>
+      <description>Melbourne, 1982.</description>
+      <content:encoded><![CDATA[<p>Melbourne, 1982. Une nuit, une jam session, et deux groupes australiens qui décident de jouer ensemble. Les Go-Betweens et the Birthday Party unissent leurs musiciens sous un nom commun, Tuff Monks, et gravent un 45-tours, « After the Fireworks ». Le résultat est bancal, bruitiste, à mille lieues de la production léchée qu'on attend d'une rencontre entre deux scènes qui comptent. Et surtout : ce disque est introuvable en format physique depuis sa parution, ce qui en fait un objet de légende autant qu'un trésor caché du post-punk australien.</p>
+<p>Les Inrocks, qui <a href="https://www.lesinrocks.com/musique/tresor-cache-after-the-fireworks-la-rencontre-au-sommet-entre-les-go-betweens-et-the-birthday-party-704111-23-11-2026/">retrace cette histoire</a>, la classe parmi ses « trésors cachés », catégorie qui suppose que le disque mérite d'être exhumé. Le titre de la chronique — <em>la rencontre au sommet</em> — dit assez ce qu'on aurait pu entendre ce soir-là : pas un projet mûri en répétitions, mais l'énergie d'une improvisation nocturne figée dans la cire d'un single unique.</p>
+<p>Il n'y a rien à ajouter au fait : deux groupes, une nuit, un 45-tours, un nom d'emprunt, et quarante ans de silence physique. C'est déjà une histoire complète.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://www.lesinrocks.com/musique/tresor-cache-after-the-fireworks-la-rencontre-au-sommet-entre-les-go-betweens-et-the-birthday-party-704111-23-11-2026/">Les Inrocks — Trésor caché : “After the Fireworks”, la rencontre au sommet entre les Go</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Hypothèse de Riemann : 940 pages contre 17 millions de lignes</title>
+      <link>https://sca64.github.io/news/articles/techno-hypothese-de-riemann-940-pages-contre-17-millions-de.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:techno-hypothese-de-riemann-940-pages-contre-17-millions-de</guid>
+      <pubDate>Mon, 23 Nov 2026 20:02:00 GMT</pubDate>
+      <description>Deux mathématiciens ont publié séparément une proposition de preuve de l' hypothèse de Riemann , conjecture des plus classiques des mathématiques.</description>
+      <content:encoded><![CDATA[<p>Deux mathématiciens ont publié séparément une proposition de preuve de l'<a href="https://next.ink/269118/hypothese-de-riemann-une-preuve-generee-par-ia-est-elle-utile-aux-mathematiciens/">hypothèse de Riemann</a>, conjecture des plus classiques des mathématiques. Leurs deux travaux portent sur le même objet et n'ont presque rien d'autre en commun.</p>
+<p>Alessandro Maria Masullo a mis en ligne un manuscrit de 940 pages expliquant sa démonstration. Son travail a été réalisé sans l'aide de l'IA.</p>
+<p>Levent Alpöge, mathématicien chez Anthropic, a lui aussi mis en ligne sa proposition, sous une tout autre forme : un code de 17 millions de lignes. Là où le premier livrait un texte à lire, le second livre un programme à parcourir.</p>
+<p>Le titre de <a href="https://next.ink/269118/hypothese-de-riemann-une-preuve-generee-par-ia-est-elle-utile-aux-mathematiciens/">Next</a> ne tranche pas, il demande : une preuve générée par IA est-elle utile aux mathématiciens ? La question porte sur l'usage de l'objet plus que sur son contenu.</p>
+<p>Deux publications, deux formats, une même conjecture — et, pour mesurer l'écart, deux nombres : 940 pages et 17 millions de lignes.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://next.ink/269118/hypothese-de-riemann-une-preuve-generee-par-ia-est-elle-utile-aux-mathematiciens/">Next — Hypothèse de Riemann : une preuve générée par IA est</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Le marché de Noël franco-allemand d'Anglet fête ses trente ans</title>
+      <link>https://sca64.github.io/news/articles/pays-basque-le-marche-de-noel-franco-allemand-d-anglet-fete-ses.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:pays-basque-le-marche-de-noel-franco-allemand-d-anglet-fete-ses</guid>
+      <pubDate>Mon, 23 Nov 2026 20:01:00 GMT</pubDate>
+      <description>Du 4 au 20 décembre, le marché de Noël franco-allemand s'installe aux Cinq-Cantons d'Anglet pour sa trentième édition.</description>
+      <content:encoded><![CDATA[<p>Du 4 au 20 décembre, le marché de Noël franco-allemand s'installe aux Cinq-Cantons d'Anglet pour sa trentième édition. <a href="https://www.ici.fr/nouvelle-aquitaine/pyrenees-atlantiques-64/anglet/le-marche-de-noel-franco-allemand-fete-ses-30-ans-a-anglet-9178122?at_medium=lien_RSS&amp;amp;at_locale=41">L'anniversaire est fêté comme il se doit</a>, entre les traditions des deux côtés du Rhin.</p>
+<p>Le programme mêle artisanat, spécialités allemandes, concerts et spectacles. Les animations sont gratuites et ouvertes à tous, des enfants aux parents.</p>
+<p>Trois semaines de fête à Anglet, au début de l'hiver, pour célébrer trois décennies d'échange franco-allemand au Pays basque.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://www.ici.fr/nouvelle-aquitaine/pyrenees-atlantiques-64/anglet/le-marche-de-noel-franco-allemand-fete-ses-30-ans-a-anglet-9178122?at_medium=lien_RSS&amp;amp;at_locale=41">ICI Pays Basque — Le marché de Noël franco</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Retraites : la Cour des comptes veut limiter les départs anticipés</title>
+      <link>https://sca64.github.io/news/articles/national-retraites-la-cour-des-comptes-veut-limiter-les-departs.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:national-retraites-la-cour-des-comptes-veut-limiter-les-departs</guid>
+      <pubDate>Mon, 23 Nov 2026 20:00:00 GMT</pubDate>
+      <description>La Cour des comptes a diffusé lundi une note consacrée à la soutenabilité financière du système de retraite par répartition .</description>
+      <content:encoded><![CDATA[<p>La Cour des comptes a diffusé lundi une note consacrée à la <a href="https://www.lemonde.fr/politique/article/2026/11/23/retraites-la-cour-des-comptes-plaide-pour-une-limitation-des-possibilites-de-departs-anticipes_6814442_823448.html">soutenabilité financière du système de retraite par répartition</a>. La haute juridiction y formule plusieurs pistes, parmi lesquelles une recommandation qui touche directement les assurés : revoir les dispositifs permettant de partir à la retraite avant l'âge légal.</p>
+<p>Le constat posé par la Cour est net. Aujourd'hui, près d'un assuré sur deux peut toucher sa pension avant l'âge légal, grâce aux mécanismes de départ anticipé prévus par la loi. C'est précisément ce volume que la juridiction financière juge problématique pour l'équilibre du système à long terme.</p>
+<p>La note ne se limite pas à cette seule recommandation. Elle dessine un ensemble de mesures destinées à garantir la pérennité financière du système par répartition, sans que le détail de chaque piste ne soit développé dans les éléments rendus publics ce lundi.</p>
+<p>L'intervention de la Cour des comptes s'inscrit dans un débat plus large sur le financement des retraites en France, où la question des départs anticipés revient régulièrement sur la table des arbitrages budgétaires. En plaçant ce levier au cœur de sa note, la haute juridiction envoie un signal : tout ajustement du système devra, selon elle, passer par un resserrement des conditions d'accès aux régimes dérogatoires.</p>
+<p>Reste à savoir si ces préconisations trouveront un écho auprès du gouvernement et du législateur. Le calendrier politique et les réticences sociales autour de toute réforme des retraites restent, comme à chaque fois, les inconnues majeures de l'équation.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://www.lemonde.fr/politique/article/2026/11/23/retraites-la-cour-des-comptes-plaide-pour-une-limitation-des-possibilites-de-departs-anticipes_6814442_823448.html">Le Monde — Retraites : la Cour des comptes plaide pour une limitation des possibilités de départs anticipés</a></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>Un calculateur local-first pour dimensionner un réseau mesh de ville</title>
       <link>https://sca64.github.io/news/articles/dev-ia-un-calculateur-local-first-pour-dimensionner-un-reseau.html</link>

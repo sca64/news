@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="fr">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Decision de justice : Quad9 coupe son service DNS en France — News</title>
+<meta name="description" content="Quad9, fournisseur suisse de résolveur DNS alternatif très utilisé pour filtrer les requêtes malveillantes, arrête définitivement son service en France à compter de ce 24 novembre 2026.">
+<link rel="alternate" type="application/rss+xml" title="News" href="https://sca64.github.io/news/feed.xml">
+<style>
+:root { color-scheme: light dark; }
+body { max-width: 42rem; margin: 3rem auto; padding: 0 1.25rem; line-height: 1.6;
+       font: 18px/1.6 -apple-system, system-ui, sans-serif; }
+a { color: inherit; }
+h1 { line-height: 1.25; margin-bottom: .3rem; }
+time { opacity: .6; font-size: .9rem; }
+blockquote { margin-inline: 0; padding-left: 1rem; border-left: 3px solid currentColor; opacity: .85; }
+pre { overflow-x: auto; background: rgba(127,127,127,.14); padding: .8rem; border-radius: 6px; }
+code { font-family: ui-monospace, monospace; font-size: .92em; }
+nav { margin-top: 4rem; border-top: 1px solid rgba(127,127,127,.4); padding-top: 1rem; font-size: .9rem; }
+</style>
+<article>
+<h1>Decision de justice : Quad9 coupe son service DNS en France</h1>
+<time datetime="2026-11-24T22:32:00.000Z">24 novembre 2026</time>
+<p>Quad9, fournisseur suisse de résolveur DNS alternatif très utilisé pour filtrer les requêtes malveillantes, arrête définitivement son service en France à compter de ce 24 novembre 2026. Le retrait répond à une décision de justice, comme l'indiquent <a href="https://www.lesnumeriques.com/informatique/quad9-le-fournisseur-de-dns-quitte-la-france-suite-a-une-decision-de-justice-n268457.html">Les Numériques</a>.</p>
+<p>Le communiqué officiel, relayé par <a href="https://next.ink/brief-article/quad9-confirme-la-desactivation-de-son-service-en-france-aujourdhui/">Next</a>, est sans ambiguïté : « Toute requête adressée à l'une des adresses de service de Quad9 sera donc refusée, et aucune résolution DNS n'aboutira ». En clair, quiconque configure encore l'adresse <code>9.9.9.9</code> ou <code>149.112.112.112</code> dans sa carte réseau ou sa box ne verra plus aucune page s'afficher : la navigation se brisera dès le premier nom de domaine à résoudre, faute de réponse.</p>
+<p>La désactivation prend effet sur la base de l'adresse IP d'origine de la requête, ce qui signifie que les utilisateurs connectés depuis le territoire français seront exclus même s'ils ont configuré Quad9 manuellement. Il faudra donc migrer vers une autre solution pour retrouver un DNS fonctionnel.</p>
+<ul>
+<li>Passer au DNS par défaut de son FAI (Free, Orange, SFR, Bouygues), sans filtrage additionnel.</li>
+<li>Basculer vers un autre résolveur public alternatif encore accessible.</li>
+<li>Installer son propre serveur DNS avec un outil comme Unbound : un <a href="https://next.ink/260020/tuto-installer-facilement-son-propre-resolveur-dns-sur-raspberry-pi-vm-freebox-vps/">tuto Next</a> détaille la méthode sur Raspberry Pi, VM Freebox ou VPS, en quelques lignes de configuration.</li>
+</ul>
+<p>Le choix relève de la philosophie : dépendre d'un tiers ou reprendre la main. Une chose est sûre, laisser son résolveur pointer vers une adresse morte ne pardonne pas.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://next.ink/brief-article/quad9-confirme-la-desactivation-de-son-service-en-france-aujourdhui/">Next — ☕️ Quad9 confirme la désactivation de son service en France aujourd’hui</a></li>
+<li><a href="https://www.lesnumeriques.com/informatique/quad9-le-fournisseur-de-dns-quitte-la-france-suite-a-une-decision-de-justice-n268457.html">Les Numériques — Quad9 : le fournisseur de DNS quitte la France suite à une décision de justice</a></li>
+<li>[Next — [Tuto] Quad9 quitte la France, comment installer et utiliser son propre résolveur DNS](https://next.ink/260020/tuto-installer-facilement-son-propre-resolveur-dns-sur-raspberry-pi-vm-freebox-vps/)</li>
+</ul>
+</article>
+<nav><a href="../index.html">News</a> · <a href="https://sca64.github.io/news/feed.xml">flux RSS</a></nav>
+</html>
