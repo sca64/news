@@ -5,9 +5,80 @@
     <link>https://sca64.github.io/news</link>
     <description>Flux RSS de mes articles.</description>
     <language>fr</language>
-    <lastBuildDate>Wed, 25 Nov 2026 20:02:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 05:46:42 GMT</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://sca64.github.io/news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Aaronson : l'IA bouscule la théorie de la complexité</title>
+      <link>https://sca64.github.io/news/articles/dev-ia-aaronson-l-ia-bouscule-la-theorie-de-la-complexite.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:dev-ia-aaronson-l-ia-bouscule-la-theorie-de-la-complexite</guid>
+      <pubDate>Thu, 26 Nov 2026 05:46:00 GMT</pubDate>
+      <description>Scott Aaronson a publié sur son blog un billet au titre on ne peut plus explicite : *Holy shit holy shit holy shit holy shit: The magnitude of what's now happening* , qu'il consacre aux récents résultats obtenus en théorie de la complexité grâce aux modèles d'IA.</description>
+      <content:encoded><![CDATA[<p>Scott Aaronson a publié sur son blog un billet au titre on ne peut plus explicite : <a href="https://scottaaronson.blog/?p=10379">*Holy shit holy shit holy shit holy shit: The magnitude of what's now happening*</a>, qu'il consacre aux récents résultats obtenus en théorie de la complexité grâce aux modèles d'IA. Le message a déclenché une discussion hors norme sur Hacker News : 1 198 points et plus d'un millier de commentaires, ce qui en fait l'un des fils les plus suivis de la journée. Un billet connexe, <a href="https://scottaaronson.blog/?p=10379">The matrix multiplication exponent is nine fourths</a>, est cité comme complément.</p>
+<p>Le billet d'Aaronson n'arrive pas seul. Le même jour, <a href="https://github.com/google-research/google-research/tree/master/cogentic_research_papers">Google a publié des papiers « Cogentic » sur la factorisation d'entiers, les logarithmes discrets et d'autres sujets</a> (472 points, 342 commentaires). Parallèlement, des <a href="https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/">rumeurs circulaient sur le fait que des laboratoires comme OpenAI ou Anthropic pourraient avoir trouvé un moyen de factoriser en P</a> (479 points, 353 commentaires). Si ces rumeurs restent à l'état de rumeurs, leur ampleur sur le forum traduit un climat : la communauté s'attend désormais à ce que l'IA produise des résultats mathématiques concrets, et non plus seulement des approximations.</p>
+<p>On retrouve d'ailleurs un écho de cette dynamique dans d'autres fils du jour. <a href="https://github.com/lsernau/grh-lean">Une version raccourcie de la vérification Lean de l'hypothèse de Riemann généralisée par Anthropic</a> — 369 points, 184 commentaires — montre que la preuve formelle pilotée par IA se démocratise. Sur Lobsters, un développeur rapporte avoir <a href="https://s.conao3.com/blog/2026/e4f733">vérifié le cœur de Clojure avec Lean et découvert des bugs non signalés</a>.</p>
+<p>L'accumulation en une seule journée dessine un paysage : l'IA n'est plus cantonnée à la génération de texte ou d'images ; elle entre frontalement dans le territoire de la preuve et de la complexité algorithmique. Aaronson, qui suit ces évolutions de près, a choisi un titre qui se passe de commentaire.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://scottaaronson.blog/?p=10379">Hacker News (100 points et plus) — Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening</a></li>
+<li><a href="https://github.com/google-research/google-research/tree/master/cogentic_research_papers">Hacker News (100 points et plus) — Google releases Cogentic papers on integer factorization, discrete logs and more</a></li>
+<li><a href="https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/">Hacker News (100 points et plus) — Rumors swirling that labs might have cracked Factoring in P</a></li>
+<li><a href="https://github.com/lsernau/grh-lean">Hacker News (100 points et plus) — Much shorter version of GRH Lean verification from Anthropic</a></li>
+<li><a href="https://s.conao3.com/blog/2026/e4f733">Hacker News (100 points et plus) — I checked Clojure's core with Lean and found unreported bugs</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Cancer : Pierre Fabre double sa production de principes actifs à Gaillac</title>
+      <link>https://sca64.github.io/news/articles/occitanie-cancer-pierre-fabre-double-sa-production-de-principes.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:occitanie-cancer-pierre-fabre-double-sa-production-de-principes</guid>
+      <pubDate>Thu, 26 Nov 2026 05:46:00 GMT</pubDate>
+      <description>Les Laboratoires Pierre Fabre ont annoncé un investissement de près de 20 millions d'euros sur leur site de Gaillac, dans le Tarn.</description>
+      <content:encoded><![CDATA[<p>Les Laboratoires Pierre Fabre ont annoncé un investissement de près de 20 millions d'euros sur leur site de Gaillac, dans le Tarn. L'objectif est clair : <a href="https://france3-regions.franceinfo.fr/occitanie/tarn/albi/cancer-les-laboratoires-pierre-fabre-investissent-20-millions-d-euros-pour-doubler-leur-production-a-gaillac-3455630.html">doubler la production</a> des principes actifs destinés aux traitements contre le cancer.</p>
+<p>C'est une décision industrielle qui inscrit le Tarn au cœur d'une filière de santé, et qui confirme l'ancrage de Pierre Fabre dans ce territoire. L'enveloppe de 20 millions d'euros est consacrée à une montée en capacité de production, pas à un nouveau site : il s'agit d'amplifier ce qui se fabrique déjà à Gaillac.</p>
+<p>Le mot d'ordre est la double mise à l'échelle. Pas de diversification, pas de pivot : les mêmes molécules, en plus grande quantité, pour répondre à la demande en traitements anticancéreux.</p>
+<p>On peut y lire un pari de long terme. Produire davantage de principes actifs, ce n'est pas simplement répondre à une urgence conjoncturelle. C'est s'inscrire dans un besoin structurel, celui d'un approvisionnement régulier en ingrédients essentiels aux protocoles de chimiothérapie et aux thérapies ciblées.</p>
+<p>Pour Gaillac, ville du Tarn qui a vu s'installer l'activité du laboratoire, cette annonce porte la promesse d'une dynamique industrielle durable autour d'un secteur — la santé — où la demande ne faiblit pas.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://france3-regions.franceinfo.fr/occitanie/tarn/albi/cancer-les-laboratoires-pierre-fabre-investissent-20-millions-d-euros-pour-doubler-leur-production-a-gaillac-3455630.html">France 3 Occitanie — Cancer : les Laboratoires Pierre Fabre investissent 20 millions d'euros pour doubler leur production à Gaillac</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Signal verrouille ses messages contre les agents IA</title>
+      <link>https://sca64.github.io/news/articles/techno-signal-verrouille-ses-messages-contre-les-agents-ia.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:techno-signal-verrouille-ses-messages-contre-les-agents-ia</guid>
+      <pubDate>Thu, 26 Nov 2026 05:46:00 GMT</pubDate>
+      <description>La messagerie chiffrée Signal vient d'implémenter un nouveau réglage, disponible sur iOS et Android, destiné à empêcher les agents d'intelligence artificielle de lire les messages affichés à l'écran, rapporte Next .</description>
+      <content:encoded><![CDATA[<p>La messagerie chiffrée Signal vient d'implémenter un nouveau réglage, disponible sur iOS et Android, destiné à empêcher les agents d'intelligence artificielle de lire les messages affichés à l'écran, <a href="https://next.ink/269751/signal-veut-empecher-les-agents-ia-de-lire-les-messages/">rapporte Next</a>.</p>
+<p>L'enjeu est simple et redoutable : les agents IA agentiques, qui tournent sur le téléphone de l'utilisateur et sont capables d'intercepter le contenu de son écran, représentent une menace directe pour ce qui fait la raison d'être de Signal. La messagerie a bâti sa réputation sur la confidentialité des échanges — un chiffrement de bout en bout, une absence de méta-données exploitées, une posture de défiance assumée envers les plateformes centralisées. Or tout ce travail cryptographique perd de sa valeur si un modèle, installé légitimement sur l'appareil, capture ce qui s'affiche sur le écran.</p>
+<p>Le nouveau réglage ne supprime pas la menace à la racine : il se borne à limiter la capacité de lecture par les agents. Et comme le souligne la dépêche, Signal « ne peut cependant pas aller aussi loin » — formule qui, tronquée dans le texte d'origine, dit assez que la messagerie bute sur une contrainte architecturale qu'elle ne maîtrise pas seule. Le contrôle de l'affichage écran par écran, l'isolation des applications entre elles, la gestion des permissions des agents IA : tout cela relève des systèmes d'exploitation, donc de Google et d'Apple.</p>
+<p>Cet épisode illustre un déplacement du problème de la vie privée numérique. La confidentialité ne se joue plus seulement entre l'émetteur et le destinataire, ni même entre l'utilisateur et la plateforme. Elle se joue désormais sur le téléphone lui-même, entre les applications et les agents qui y cohabitent. Un message parfaitement chiffré sur le réseau mais lu à l'écran par un modèle tiers n'est, en pratique, plus un message privé.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://next.ink/269751/signal-veut-empecher-les-agents-ia-de-lire-les-messages/">Next — Signal veut empêcher les agents IA de lire les messages</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Marseille : des casseurs relâchés sur ordre, affirme le maire Payan</title>
+      <link>https://sca64.github.io/news/articles/national-marseille-des-casseurs-relaches-sur-ordre-affirme-le.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:national-marseille-des-casseurs-relaches-sur-ordre-affirme-le</guid>
+      <pubDate>Thu, 26 Nov 2026 05:45:00 GMT</pubDate>
+      <description>Benoît Payan, maire divers gauche de Marseille, affirme que des ordres ont été donnés pour relâcher des casseurs lors des violences du 17 octobre dans la ville.</description>
+      <content:encoded><![CDATA[<p>Benoît Payan, maire divers gauche de Marseille, affirme que <a href="https://www.lemonde.fr/societe/article/2026/11/25/violences-du-17-octobre-a-marseille-des-ordres-ont-ete-donnes-pour-relacher-des-casseurs-selon-benoit-payan_6815175_3224.html">des ordres ont été donnés pour relâcher des casseurs</a> lors des violences du 17 octobre dans la ville. L'élu dit l'avoir constaté à plusieurs reprises en visionnant les enregistrements des caméras de surveillance, dont il indique avoir remis 7 000 heures au procureur de la République de Marseille.</p>
+<p>Les affirmations détaillées devant la <a href="https://www.lefigaro.fr/marseille/manifestation-du-17-octobre-on-a-demande-a-la-police-municipale-de-relacher-plusieurs-pilleurs-a-marseille-affirme-benoit-payan-20261125">commission d'enquête parlementaire</a> portent sur une chaîne de commandement précise :</p>
+<ul>
+<li>la police municipale a, à plusieurs reprises, interpellé des pilleurs dans des commerces marseillais ;</li>
+<li>elle a dû les libérer sur ordre de la police nationale ;</li>
+<li>« Il a été demandé à la police municipale de relâcher » plusieurs d'entre eux, résume Benoît Payan ;</li>
+<li>l'édile, qui parle d'« impunité » pour caractériser cette journée, appuie son propos sur les images de vidéosurveillance.</li>
+</ul>
+<p>Le dossier repose donc, pour l'instant, sur la lecture qu'en fait le maire des enregistrements municipaux, remise au parquet sous forme de 7 000 heures d'images, et sur sa déposition devant la commission d'enquête. Les violences du 17 octobre à Marseille, elles, sont le point de départ commun de l'ensemble de ces éléments.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://www.lemonde.fr/societe/article/2026/11/25/violences-du-17-octobre-a-marseille-des-ordres-ont-ete-donnes-pour-relacher-des-casseurs-selon-benoit-payan_6815175_3224.html">Le Monde — Violences du 17 octobre à Marseille : des ordres ont été donnés pour relâcher des casseurs, selon Benoît Payan</a></li>
+<li><a href="https://www.lefigaro.fr/marseille/manifestation-du-17-octobre-on-a-demande-a-la-police-municipale-de-relacher-plusieurs-pilleurs-a-marseille-affirme-benoit-payan-20261125">Le Figaro — Manifestation du 17 octobre à Marseille : «Il a été demandé à la police municipale de relâcher» plusieurs pilleurs, affirme Benoît Payan</a></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>Tiakola, la Courneuve à la Philharmonie de Paris</title>
       <link>https://sca64.github.io/news/articles/culture-tiakola-la-courneuve-a-la-philharmonie-de-paris.html</link>
