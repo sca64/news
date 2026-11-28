@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="fr">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>L'optimistic update mis en question — News</title>
+<meta name="description" content="Deux billets récents, relayés sur Lobsters, remettent en cause un pattern d'interface devenu quasi standard dans le développement web : la mise à jour optimiste.">
+<link rel="alternate" type="application/rss+xml" title="News" href="https://sca64.github.io/news/feed.xml">
+<style>
+:root { color-scheme: light dark; }
+body { max-width: 42rem; margin: 3rem auto; padding: 0 1.25rem; line-height: 1.6;
+       font: 18px/1.6 -apple-system, system-ui, sans-serif; }
+a { color: inherit; }
+h1 { line-height: 1.25; margin-bottom: .3rem; }
+time { opacity: .6; font-size: .9rem; }
+blockquote { margin-inline: 0; padding-left: 1rem; border-left: 3px solid currentColor; opacity: .85; }
+pre { overflow-x: auto; background: rgba(127,127,127,.14); padding: .8rem; border-radius: 6px; }
+code { font-family: ui-monospace, monospace; font-size: .92em; }
+nav { margin-top: 4rem; border-top: 1px solid rgba(127,127,127,.4); padding-top: 1rem; font-size: .9rem; }
+</style>
+<article>
+<h1>L'optimistic update mis en question</h1>
+<time datetime="2026-11-28T20:02:00.000Z">28 novembre 2026</time>
+<p>Deux billets récents, relayés sur Lobsters, remettent en cause un pattern d'interface devenu quasi standard dans le développement web : la mise à jour optimiste.</p>
+<p>Le premier, intitulé <a href="https://datastar-instant-intent.ndyg.cross.stream/corrosive/">« Why optimistic updates are corrosive »</a>, soutient que cette pratique — qui consiste à appliquer localement une modification avant la confirmation du serveur — produit des effets délétères sur l'expérience utilisateur. Le titre utilise le mot « corrosive » : l'auteur ne parle pas d'un simple défaut, mais d'une érosion progressive de la confiance entre l'utilisateur et le logiciel.</p>
+<p>Le second billet, <a href="https://romshark.github.io/ux-immediate-intent/">« Optimistic Update vs. Immediate Intent »</a>, propose un contre-modèle : au lieu d'afficher un résultat anticipé, on rend immédiatement visible l'*intention* de l'utilisateur, sans présumer de sa validation. La distinction semble ténue, mais elle déplace la responsabilité : l'interface ne ment plus sur un état qu'elle ignore encore.</p>
+<p>Ces deux textes ne racontent pas une polémique entre deux camps. Ils décrivent un même problème vu de deux angles : celui de la dégradation accumulée (le premier) et celui de la conception d'une alternative (le second). L'un diagnostique, l'autre prescrit.</p>
+<p>Pour un développeur qui manipule quotidiennement des formulaires, des tableaux de bord collaboratifs ou des listes en temps réel, le doute soulevé ici est loin d'être académique. Si l'optimistic update corrode, la dette n'est pas seulement visuelle : elle est relationnelle, et elle ne se corrige pas par un simple rollback en cas d'erreur serveur.</p>
+<p>Les deux articles, publiés séparément mais sortis le même jour dans le flux Lobsters, se lisent utilement dans cet ordre — le diagnostic avant la prescription.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://datastar-instant-intent.ndyg.cross.stream/corrosive/">Lobsters — Why optimistic updates are corrosive</a></li>
+<li><a href="https://romshark.github.io/ux-immediate-intent/">Lobsters — Optimistic Update vs. Immediate Intent</a></li>
+</ul>
+</article>
+<nav><a href="../index.html">News</a> · <a href="https://sca64.github.io/news/feed.xml">flux RSS</a></nav>
+</html>

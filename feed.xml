@@ -5,9 +5,81 @@
     <link>https://sca64.github.io/news</link>
     <description>Flux RSS de mes articles.</description>
     <language>fr</language>
-    <lastBuildDate>Sat, 28 Nov 2026 14:46:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 20:02:54 GMT</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://sca64.github.io/news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Alain Cavalier, testament espiègle au creux de sa caméra</title>
+      <link>https://sca64.github.io/news/articles/culture-alain-cavalier-testament-espiegle-au-creux-de-sa-camera.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:culture-alain-cavalier-testament-espiegle-au-creux-de-sa-camera</guid>
+      <pubDate>Sat, 28 Nov 2026 20:02:00 GMT</pubDate>
+      <description>« Merci d'être venu » , en salles, est l'espiègle testament vidéo d'Alain Cavalier, cinéaste de 95 ans.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.telerama.fr/cinema/alain-cavalier-revoit-ses-rushes-directement-sur-sa-camera-comme-avec-le-cinematographe-des-freres-lumiere-7034078.php">« Merci d'être venu »</a>, en salles, est l'espiègle testament vidéo d'Alain Cavalier, cinéaste de 95 ans. Le titre même du film, une formule de remerciement adressée au spectateur, donne le ton : quelque chose de simple, de direct, presque artisanal.</p>
+<p>C'est cette dernière qualité qui frappe dans la manière de travailler que décrit son monteur attitré depuis une douzaine d'années, Emmanuel Manzano. Cavalier revoit ses rushes directement sur sa caméra, sans passer par un poste de montage classique. Un geste qui, sous la plume de Télérama, est rapproché du cinématographe des frères Lumière — même rapport tactile à l'image, même économie de moyens.</p>
+<p>Manzano, dans l'article, donne des nouvelles du réalisateur et détaille son approche du montage. On sent, à travers ce témoignage d'un collaborateur fidèle, un homme qui continue de regarder ses rushes comme on feuillette un carnet, au plus près de la matière filmée.</p>
+<blockquote><p>« Merci d'être venu » — rien de grandiloquent dans ces trois mots pour conclure une œuvre.</p></blockquote>
+<p>Le film est donc à la fois un objet et un geste : la preuve, sans doute, qu'on peut filmer, monter et remercier depuis un seul et même écran.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>L'optimistic update mis en question</title>
+      <link>https://sca64.github.io/news/articles/dev-ia-l-optimistic-update-mis-en-question.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:dev-ia-l-optimistic-update-mis-en-question</guid>
+      <pubDate>Sat, 28 Nov 2026 20:02:00 GMT</pubDate>
+      <description>Deux billets récents, relayés sur Lobsters, remettent en cause un pattern d'interface devenu quasi standard dans le développement web : la mise à jour optimiste.</description>
+      <content:encoded><![CDATA[<p>Deux billets récents, relayés sur Lobsters, remettent en cause un pattern d'interface devenu quasi standard dans le développement web : la mise à jour optimiste.</p>
+<p>Le premier, intitulé <a href="https://datastar-instant-intent.ndyg.cross.stream/corrosive/">« Why optimistic updates are corrosive »</a>, soutient que cette pratique — qui consiste à appliquer localement une modification avant la confirmation du serveur — produit des effets délétères sur l'expérience utilisateur. Le titre utilise le mot « corrosive » : l'auteur ne parle pas d'un simple défaut, mais d'une érosion progressive de la confiance entre l'utilisateur et le logiciel.</p>
+<p>Le second billet, <a href="https://romshark.github.io/ux-immediate-intent/">« Optimistic Update vs. Immediate Intent »</a>, propose un contre-modèle : au lieu d'afficher un résultat anticipé, on rend immédiatement visible l'*intention* de l'utilisateur, sans présumer de sa validation. La distinction semble ténue, mais elle déplace la responsabilité : l'interface ne ment plus sur un état qu'elle ignore encore.</p>
+<p>Ces deux textes ne racontent pas une polémique entre deux camps. Ils décrivent un même problème vu de deux angles : celui de la dégradation accumulée (le premier) et celui de la conception d'une alternative (le second). L'un diagnostique, l'autre prescrit.</p>
+<p>Pour un développeur qui manipule quotidiennement des formulaires, des tableaux de bord collaboratifs ou des listes en temps réel, le doute soulevé ici est loin d'être académique. Si l'optimistic update corrode, la dette n'est pas seulement visuelle : elle est relationnelle, et elle ne se corrige pas par un simple rollback en cas d'erreur serveur.</p>
+<p>Les deux articles, publiés séparément mais sortis le même jour dans le flux Lobsters, se lisent utilement dans cet ordre — le diagnostic avant la prescription.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://datastar-instant-intent.ndyg.cross.stream/corrosive/">Lobsters — Why optimistic updates are corrosive</a></li>
+<li><a href="https://romshark.github.io/ux-immediate-intent/">Lobsters — Optimistic Update vs. Immediate Intent</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Des pizzas gratuites contre des photos pour entraîner une IA</title>
+      <link>https://sca64.github.io/news/articles/techno-des-pizzas-gratuites-contre-des-photos-pour-entrainer.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:techno-des-pizzas-gratuites-contre-des-photos-pour-entrainer</guid>
+      <pubDate>Sat, 28 Nov 2026 20:01:00 GMT</pubDate>
+      <description>Une grande chaîne de pizzerias a trouvé un moyen original de récolter des données pour son intelligence artificielle : elle offre des pizzas gratuites à ses clients en échange d'une simple photographie de leur commande.</description>
+      <content:encoded><![CDATA[<p>Une grande chaîne de pizzerias a trouvé un moyen original de récolter des données pour son intelligence artificielle : elle offre des pizzas gratuites à ses clients en échange d'une simple photographie de leur commande. Le deal est explicite — vous mangez gratuitement, vous prenez une photo, et l'enseigne nourrit son modèle — et le moins que l'on puisse dire, c'est que <a href="https://www.lesnumeriques.com/intelligence-artificielle/une-chaine-de-restauration-rapide-offre-des-pizzas-gratuites-a-ses-clients-en-echange-de-photos-de-leurs-commandes-pour-entrainer-son-intelligence-artificielle-n268865.html">les clients n'ont pas boudé leur plaisir</a> : quelques jours seulement après le lancement de l'opération, des milliers de photographies avaient déjà été envoyées.</p>
+<p>Chaque cliché reçu représente une pizza offerte, ce qui donne une idée du coût commercial du dispositif — mais aussi de l'engouement qu'il a suscité. L'objectif affiché par l'enseigne est d'améliorer la qualité des menus dans ses 6 000 restaurants grâce à ces images de commandes réelles.</p>
+<p>On notera la simplicité du mécanisme, qui n'exige du client ni formulaire ni profil en ligne : une photo, un geste quasi réflexe à l'heure du déjeuner, et la transaction est bouclée. C'est aussi ce qui explique le volume massif de données collectées en quelques jours. Pas de consentement détaillé à lire, pas de case à cocher dans les moindres recoins d'une application — juste une pizza contre un cliché.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://www.lesnumeriques.com/intelligence-artificielle/une-chaine-de-restauration-rapide-offre-des-pizzas-gratuites-a-ses-clients-en-echange-de-photos-de-leurs-commandes-pour-entrainer-son-intelligence-artificielle-n268865.html">Les Numériques — Une chaîne de restauration rapide offre des pizzas gratuites à ses clients en échange de photos de leurs commandes pour entraîner son intelligence artificielle</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Violences au banquet du Canon français à Biarritz</title>
+      <link>https://sca64.github.io/news/articles/national-violences-au-banquet-du-canon-francais-a-biarritz.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:national-violences-au-banquet-du-canon-francais-a-biarritz</guid>
+      <pubDate>Sat, 28 Nov 2026 20:00:00 GMT</pubDate>
+      <description>Samedi 28 novembre, un rassemblement contre un banquet du Canon français à Biarritz a tourné à l'affrontement entre manifestants et forces de l'ordre.</description>
+      <content:encoded><![CDATA[<p>Samedi 28 novembre, un rassemblement contre un banquet du Canon français à Biarritz a tourné à l'affrontement entre manifestants et forces de l'ordre. Les protestataires, qui avaient annoncé un <a href="https://www.lemonde.fr/societe/article/2026/11/28/a-un-banquet-du-canon-francais-a-biarritz-des-manifestants-bloquent-les-participants-des-policiers-blesses_6816103_3225.html">« rempart humain » pour empêcher les participants de rejoindre le site</a>, ont bloqué l'accès au déjeuner qui réunissait 1 500 convives, selon <a href="https://www.lefigaro.fr/actualite-france/des-antifas-attaquent-des-participants-a-un-banquet-du-canon-francais-a-biarritz-20261128">Le Figaro</a>. L'événement est cofinancé par le milliardaire Pierre-Edouard Stérin.</p>
+<p>Les forces de l'ordre ont fait usage de lacrymogènes à l'encontre de manifestants dont certains, masqués et cagoulés, ont riposté par des tirs tendus de mortiers d'artifice. Au moins huit policiers ont été blessés, dont un par arme blanche, a indiqué <a href="https://www.lefigaro.fr/faits-divers/banquet-du-canon-francais-a-biarritz-au-moins-8-policiers-blesses-dont-un-par-arme-blanche-20261128">Le Figaro</a>. Plusieurs participants ont également été blessés.</p>
+<p>La classe politique a réagi en cascade. Bruno Retailleau, David Lisnard, Marine Le Pen et Éric Zemmour ont fustigé les méthodes « liberticides » de l'« extrême gauche », tandis que Laurent Nuñez a condamné la « violence extrême » de certains protestataires.</p>
+<ul>
+<li>Sources :</li>
+</ul>
+<p>https://www.lemonde.fr/societe/article/2026/11/28/a-un-banquet-du-canon-francais-a-biarritz-des-manifestants-bloquent-les-participants-des-policiers-blesses_6816103_3225.html https://www.lefigaro.fr/actualite-france/des-antifas-attaquent-des-participants-a-un-banquet-du-canon-francais-a-biarritz-20261128 https://www.lefigaro.fr/faits-divers/banquet-du-canon-francais-a-biarritz-au-moins-8-policiers-blesses-dont-un-par-arme-blanche-20261128 https://www.lefigaro.fr/actualite-france/violences-au-banquet-du-canon-francais-a-biarritz-la-droite-et-le-rn-denoncent-les-methodes-liberticides-de-l-extreme-gauche-20261128</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Mille drones illuminent le ciel de la baie de la Concha</title>
+      <link>https://sca64.github.io/news/articles/pays-basque-mille-drones-illuminent-le-ciel-de-la-baie-de-la-concha.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:pays-basque-mille-drones-illuminent-le-ciel-de-la-baie-de-la-concha</guid>
+      <pubDate>Sat, 28 Nov 2026 20:00:00 GMT</pubDate>
+      <description>Un spectacle inédit s'annonce sur la côte basque.</description>
+      <content:encoded><![CDATA[<p>Un spectacle inédit s'annonce sur la côte basque. Le vendredi 4 décembre 2026, un millier de drones s'élanceront dans le ciel de la baie de la Concha, à Saint-Sébastien, pour une performance lumineuse d'une durée de dix-sept minutes. « Les émotions seront au rendez-vous », promet l'organisation dans <a href="https://actu.fr/nouvelle-aquitaine/hendaye_64260/les-emotions-seront-au-rendez-vous-1-000-drones-debarquent-dans-le-ciel-du-pays-basque-pour-un-spectacle-inedit_65108568.html">l'annonce publiée par Actu Pays Basque</a>.</p>
+<p>Un millier de drones, cela en fait des points lumineux à coordonner dans un espace réduit au-dessus de la baie. Le spectacle est présenté comme inédit sur la côte, ce qui devrait attirer un large public sur les rives de Saint-Sébastien.</p>
+<p>L'événement s'inscrit dans une dynamique festive de fin d'année qui touche l'ensemble du territoire basque. Quelques jours plus tôt, Bayonne inaugurait son marché de Noël sur la place du Réduit, ouvert jusqu'au 3 janvier 2026.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://actu.fr/nouvelle-aquitaine/hendaye_64260/les-emotions-seront-au-rendez-vous-1-000-drones-debarquent-dans-le-ciel-du-pays-basque-pour-un-spectacle-inedit_65108568.html">Actu Pays Basque — "Les émotions seront au rendez-vous" : 1 000 drones débarquent dans le ciel du Pays basque pour un spectacle inédit</a></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>Le New York Times interdit Photoshop 2027 à ses photographes</title>
       <link>https://sca64.github.io/news/articles/techno-le-new-york-times-interdit-photoshop-2027-a-ses.html</link>
