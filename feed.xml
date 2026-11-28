@@ -5,9 +5,55 @@
     <link>https://sca64.github.io/news</link>
     <description>Flux RSS de mes articles.</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 27 Nov 2026 20:02:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 05:46:51 GMT</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://sca64.github.io/news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Le New York Times interdit Photoshop 2027 à ses photographes</title>
+      <link>https://sca64.github.io/news/articles/techno-le-new-york-times-interdit-photoshop-2027-a-ses.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:techno-le-new-york-times-interdit-photoshop-2027-a-ses</guid>
+      <pubDate>Sat, 28 Nov 2026 05:46:00 GMT</pubDate>
+      <description>Le New York Times a demandé à ses photographes de ne pas utiliser la dernière version du logiciel d'Adobe.</description>
+      <content:encoded><![CDATA[<p>Le New York Times a demandé à ses photographes de ne pas utiliser la dernière version du logiciel d'Adobe. La raison : l'IA générative s'est tellement infiltrée dans les outils que le quotidien ne peut plus garantir la traçabilité des images qu'il publie.</p>
+<p>« Nous avons appris que certaines fonctions d'Adobe Photoshop 2027 (version 28.0.0) font appel à l'IA générative sans que les utilisateurs s'en rendent forcément compte », explique la publication dans une note interne, relayée par <a href="https://next.ink/brief-article/le-new-york-times-interdit-photoshop-2027-a-ses-photographes-a-cause-de-lia/">Next</a>.</p>
+<p>Ce qui gêne le journal, ce n'est pas la présence de l'IA en soi, mais le fait qu'elle agisse à l'insu de celui qui manipule le logiciel. Un photographe qui recadre une image, ajuste un niveau ou corrige un défaut pourrait, sans le savoir, laisser le moteur génératif retoucher des pixels au-delà de l'intention initiale. Dans une rédaction où la frontière entre retouche et altération porte un poids déontologique considérable, cette opacité est rédhibitoire.</p>
+<p>L'interdiction ne porte pas sur les versions antérieures du logiciel, mais spécifiquement sur Photoshop 2027, version 28.0.0. Le New York Times bascule ses équipes sur des éditions plus anciennes, où les fonctions d'IA générative ne sont pas intégrées de manière aussi diffuse.</p>
+<p>Cette décision illustre un malaise plus large : à mesure que les générateurs d'images deviennent des couches invisibles dans les outils de retouche classiques, la notion même de « prise de vue » se brouille. Un rédacteur en chef peut accepter qu'un photographe corrige l'exposition ou recadre une composition. Il peut beaucoup moins bien accepter qu'un modèle génère des pixels dans l'arrière-plan d'une photo d'actualité, même « mineurement », sans que le photographe en ait conscience.</p>
+<p>Le New York Times n'a pas précisé s'il étendrait cette mesure à d'autres logiciels, ni s'il envisageait de demander à Adobe un mode « sans IA générative ». Pour l'heure, la consigne tient en une phrase, appliquée aux photographes du journal.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://next.ink/brief-article/le-new-york-times-interdit-photoshop-2027-a-ses-photographes-a-cause-de-lia/">Next — ☕️ Le New York Times interdit Photoshop 2027 à ses photographes à cause de l’IA</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Après 126 ans, le ticket de métro parisien tire sa révérence</title>
+      <link>https://sca64.github.io/news/articles/national-apres-126-ans-le-ticket-de-metro-parisien-tire-sa.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:national-apres-126-ans-le-ticket-de-metro-parisien-tire-sa</guid>
+      <pubDate>Sat, 28 Nov 2026 05:45:00 GMT</pubDate>
+      <description>Il avait accompagné des générations entières de Franciliens et de touristes.</description>
+      <content:encoded><![CDATA[<p>Il avait accompagné des générations entières de Franciliens et de touristes. Depuis 1900, ce petit rectangle en carton était le fidèle compagnon de route de millions de trajets dans le métro parisien. Il ne sera plus utilisable à compter du 15 décembre, après <a href="https://www.lefigaro.fr/actualite-france/apres-126-ans-d-existence-le-ticket-de-metro-parisien-tire-sa-reverence-20261128">126 ans d'existence</a>.</p>
+<p>Une page se tourne. Pas seulement celle d'un objet du quotidien, mais celle d'un marqueur visuel et tactile de la ville. Le ticket en carton, reconnaissable entre mille, disparaît du paysage. Sa fin est programmée, actée par une date butoir que les usagers découvriront sur le quai un matin de décembre.</p>
+<p>Ce qui frappe, dans cette disparition, c'est la longévité : 126 ans, c'est plus d'un siècle ininterrompu, de la Belle Époque à nos jours, à servir de sésame pour descendre sous la capitale. Le célèbre ticket aura traversé deux guerres mondiales, des réformes, des extensions de réseau, des changements de tarif.</p>
+<p>Puis un jour, on le glisse une dernière fois dans la borne, et il ne sort plus. Le carton, lui, ne se démode pas — mais le temps de le faire disparaître, si.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://www.lefigaro.fr/actualite-france/apres-126-ans-d-existence-le-ticket-de-metro-parisien-tire-sa-reverence-20261128">Le Figaro — Après 126 ans d’existence, le ticket de métro parisien tire sa révérence</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Un Toulousain champion du monde de chessboxing à Istanbul</title>
+      <link>https://sca64.github.io/news/articles/occitanie-un-toulousain-champion-du-monde-de-chessboxing-a.html</link>
+      <guid isPermaLink="false">https://sca64.github.io/news:article:occitanie-un-toulousain-champion-du-monde-de-chessboxing-a</guid>
+      <pubDate>Sat, 28 Nov 2026 05:45:00 GMT</pubDate>
+      <description>Sabri M'Hamdi est devenu champion du monde de chessboxing 2026, dans la catégorie des moins de 69 kilos, lors des championnats du monde organisés à Istanbul, en Turquie.</description>
+      <content:encoded><![CDATA[<p>Sabri M'Hamdi est devenu champion du monde de chessboxing 2026, dans la catégorie des moins de 69 kilos, lors des championnats du monde organisés à Istanbul, en Turquie. Le Toulousain remporte ainsi le titre suprême d'un sport encore méconnu du grand public.</p>
+<p>Le chessboxing alterne des rounds de boxe et des parties d'échecs, exigeant des concurrents qu'ils passent de l'effort physique pur à la concentration stratégique à chaque intervalle. C'est ce que résume assez bien la formule consacrée : échec et K.-O. En France, la discipline est encadrée par la <a href="https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/echec-et-k-o-le-toulousain-sabri-m-hamdi-sacre-champion-du-monde-de-chessboxing-3457136.html">Fédération Française de chessboxing</a>.</p>
+<p>Un titre mondial pour un athlète de Toulouse, dans un sport qui combine deux univers a priori opposés : voilà qui mérite qu'on s'y attarde une seconde.</p>
+<p>Sources</p>
+<ul>
+<li><a href="https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/echec-et-k-o-le-toulousain-sabri-m-hamdi-sacre-champion-du-monde-de-chessboxing-3457136.html">France 3 Occitanie — Échec et K.-O. : le Toulousain Sabri M'Hamdi sacré champion du monde de chessboxing</a></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>Jean-Claude Vannier, l'homme orchestre autodidacte derrière les tubes</title>
       <link>https://sca64.github.io/news/articles/culture-jean-claude-vannier-l-homme-orchestre-autodidacte.html</link>
